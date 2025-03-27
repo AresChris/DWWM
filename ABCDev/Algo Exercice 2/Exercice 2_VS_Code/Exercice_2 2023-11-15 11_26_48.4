@@ -1,0 +1,29 @@
+Variables
+    anneeA est un entier
+    bissextile est un entier
+    nonBissextile est un entier
+Début du programme
+    Ecrire "Quelle année ? "
+    Lire anneeA
+    bissextile prend la valeur anneeA
+        SI (bissextile/100 != (anneeA)d ET bissextile/400!=(anneeA)d) ET bissextile/4 == (anneeA)d ) ALORS
+            Ecrire "L'annéee est bissextile"
+                SINON
+                    SI (bissextile/100 == (anneeA)d ET (bissextile/400 == (anneeA)d) ET (bissextile/4 != (anneeA)d)) ALORS
+                    Ecrire "l'année n'est pas bissextile"
+                    FIN SI
+                    FIN SINON
+             
+Fin du programme
+
+
+a = 4
+b = 100
+c = 400
+
+bissextile = (==/4 ET !=/100 ET !=/400)
+bissextile = a et !b et !c
+nonBissextile = (!=/4 ET ==/100 et !=/400)
+nonBissextile = !a et b et !c
+
+(a.!b.!c)+(!a.b.!c) = 

@@ -1,0 +1,14 @@
+Exercice 4.2
+    heure est un entier
+    minute est un entier
+    seconde est un entier
+Début du programme
+    Ecrire "Inscrire l'heure (hh): "
+    Lire heure
+    Ecrire "inscrire les minutes : "
+    Lire minute
+    Ecrire "Inscrire les secondes : "
+    Lire seconde
+    seconde <-- seconde+1
+    Ecrire "Dans une seconde, il sera " 'Lire heure' 'Lire minute' 'lire seconde' Ecrire "."
+Fin du programme

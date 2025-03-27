@@ -1,0 +1,15 @@
+Variables
+    a est un entier
+    b est un entier
+Début du programme
+    Si (a>0 ET b>0 OU a<0 et b<0) ALORS
+        Ecrire "Le produit des deux est positif"
+        SINON
+            Si (a<0 ET b>0 OU a>0 ET b<0) ALORS
+            Ecrire "Le produit des des est négatif"
+                SINON
+                SI (a==0 et b==0 OU b==0 ET a==0) ALORS
+                Ecrire "La somme des deux est nulle"
+                Fin Si
+                Fin SINON
+Fin du programme

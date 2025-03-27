@@ -1,0 +1,29 @@
+Exercice 5
+Variables 
+    nbPrint est un entier
+    facture est un entier
+Début du programme
+    Ecrire "Combien de photocopies voulez-vous ? : "
+    Lire nbPrint
+        Début TANT QUE 
+            TANT QUE (nbPrint<0) FAIRE
+            Ecrire "Le nombre est négatif !"
+            Ecrire "Saisissez un nombre positif"
+            Lire nbPrint
+    Lire nbPrint
+        SI (nbPrint>=0 ET nbPrint<=10)
+        facture <-- nbPrint*0.10
+        Ecrire "La facture est de : "
+        Lire facture
+            SINON
+                SI (nbPrint>=11 ET nbPrint<=20) ALORS
+                facture <-- nbPrint*0.09
+                Ecrire "la facture est de : "
+                Lire facture
+                    SINON 
+                        facture <-- nbPrint*0.08
+                        Ecrire "la facture est de : "
+                        Lire facture
+                    FIN SI
+                    FIN SINON
+Fin du programme

@@ -1,0 +1,21 @@
+Exercice 6
+Variables
+    age est un entier
+    sexe est une chaine de caractères
+    impot est une chaine
+Début du programme
+    Ecrire "Inscrivez votre âge : "
+    Lire age
+    Ecrire "Inscrivez votre sexe (H ou F): "
+    Lire sexe
+    SI (sexe="H" et age<20) ALORS
+    Ecrire "Vous n'êtes pas imposable"
+        SINON
+            SI (sexe="F") ALORS
+            SI (age>18 et age<35)
+            Ecrire "Vous êtes imposable !"
+                SINON
+                Ecrire "Vous n'êtes pas imposable !"
+                FIN SI
+                FIN SINON
+Fin du programme

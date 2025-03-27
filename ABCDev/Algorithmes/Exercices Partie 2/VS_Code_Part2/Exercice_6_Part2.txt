@@ -1,0 +1,20 @@
+Exercice 6
+
+Variables
+    age est un entier
+    sexe est une chaine de carctères
+Début de l'algorithme
+    Ecrire "Inscrivez votre age :"
+    Lire age
+    Ecrire "Inscrivez votre sexe"
+    Lire sexe
+    Si (sexe=="h" et age>20) alors
+        Ecrire "Vous êtes imposable !"
+            SINON   
+            SI (sexe=="f" et age>=18 et age<=35) alors
+                Ecrire "vous êtes imposable"
+                    SINON
+                    Ecrire "Vous n'êtes pas imposable"
+                    Fin SI
+                    Fin SINON
+Fin du programme

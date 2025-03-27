@@ -1,0 +1,23 @@
+Exercice 3
+
+Variables
+    age
+Début du programme
+    Ecrire "Inscrivez l'âge de l'enfant : "
+    Lire age
+        SI (age>=6 et age<=7)
+        Ecrire "Catégorie Poussin"
+        SINON
+            Si (age>=8 et age<=9) ALORS
+            Ecrire "Catégorie Pupille"
+                SINON
+                    SI (age>=10 ET age<=11) ALORS
+                    Ecrire "Catagorie Minime"
+                        SINON
+                        SI (age<6) ALORS
+                        Ecrire "Inscription impossible, l'enfant est trop jeune"
+                            SINON
+                            Ecrire "Catagorie Cadet"
+                        FIN SI
+                        FIN SINON
+Fin du programme

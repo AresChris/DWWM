@@ -1,0 +1,12 @@
+Exercice 4
+Variables
+    minutes est un entier
+    heure est un entier
+Début du programme
+    Ecrire "Inscrivez l'heure actuelle (hh) : "
+    Lire heure
+    Ecrire "Inscrivez les minutes actuelles (mm) : "
+    Lire minute
+    minute <-- minute+1
+    Ecrire "Dans une minute, il sera " 'Lire heure' 'Lire minute'
+Fin du programme

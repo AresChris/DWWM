@@ -1,0 +1,15 @@
+Exercice 1
+Variables
+    a est un entier
+
+Début du programme
+    Ecrire "Inscrire un nombre : "
+    Lire a
+        SI (a>0) ALORS
+        Ecrire "Ce nombre est positif"
+            SINON
+                SI (a<0)
+                Ecrire "ce nombre est négatif"
+                FIN SI
+                FIN SINON
+FIN DU programme

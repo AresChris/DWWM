@@ -1,0 +1,18 @@
+Exercice 2
+
+Variables
+    a est un entier
+    b estun entier
+Début du programme
+    Ecrire "Inscrire a : "
+    Lire a
+    Ecrire "Inscrire b :"
+    Lire b
+        SI ((a*b)>0) ALORS
+        Ecrire "Le produit des deux nombres est positif"
+        SINON
+            SI ((a*b)<0) ALORS
+            Ecrire "Le produit de ces deux sommes est négatif"
+            FIN SI
+            FIN SINON
+Fin du programme
