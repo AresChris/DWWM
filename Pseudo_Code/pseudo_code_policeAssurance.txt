@@ -1,0 +1,15 @@
+
+Variables
+    v est un booleen  //  la police "Vie"
+    sm est un booleen // Sexe Masculin
+    m est un booleen // Marié
+    A est un booleen // Agé de 25 ans au moins
+    sf est un booleen // Sexe féminin
+    souscription est un booleen // résultat
+Début du programme
+    Début condition Si
+        Si(V && sm && m && a) || (!v && sf) || (!m && sm && a || v) || (!v && a && m && sm)
+            Alors souscription == true
+        Sinon
+            souscription == false
+    Fin condition Si

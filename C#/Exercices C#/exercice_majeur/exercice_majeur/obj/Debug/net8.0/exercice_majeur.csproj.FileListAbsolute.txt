@@ -1,0 +1,14 @@
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_majeur\exercice_majeur\bin\Debug\net8.0\exercice_majeur.exe
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_majeur\exercice_majeur\bin\Debug\net8.0\exercice_majeur.deps.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_majeur\exercice_majeur\bin\Debug\net8.0\exercice_majeur.runtimeconfig.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_majeur\exercice_majeur\bin\Debug\net8.0\exercice_majeur.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_majeur\exercice_majeur\bin\Debug\net8.0\exercice_majeur.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_majeur\exercice_majeur\obj\Debug\net8.0\exercice_majeur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_majeur\exercice_majeur\obj\Debug\net8.0\exercice_majeur.AssemblyInfoInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_majeur\exercice_majeur\obj\Debug\net8.0\exercice_majeur.AssemblyInfo.cs
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_majeur\exercice_majeur\obj\Debug\net8.0\exercice_majeur.csproj.CoreCompileInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_majeur\exercice_majeur\obj\Debug\net8.0\exercice_majeur.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_majeur\exercice_majeur\obj\Debug\net8.0\refint\exercice_majeur.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_majeur\exercice_majeur\obj\Debug\net8.0\exercice_majeur.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_majeur\exercice_majeur\obj\Debug\net8.0\exercice_majeur.genruntimeconfig.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_majeur\exercice_majeur\obj\Debug\net8.0\ref\exercice_majeur.dll

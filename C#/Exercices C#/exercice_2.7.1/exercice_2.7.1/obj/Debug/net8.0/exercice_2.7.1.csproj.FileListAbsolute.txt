@@ -1,0 +1,14 @@
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_2.7.1\exercice_2.7.1\bin\Debug\net8.0\exercice_2.7.1.exe
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_2.7.1\exercice_2.7.1\bin\Debug\net8.0\exercice_2.7.1.deps.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_2.7.1\exercice_2.7.1\bin\Debug\net8.0\exercice_2.7.1.runtimeconfig.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_2.7.1\exercice_2.7.1\bin\Debug\net8.0\exercice_2.7.1.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_2.7.1\exercice_2.7.1\bin\Debug\net8.0\exercice_2.7.1.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_2.7.1\exercice_2.7.1\obj\Debug\net8.0\exercice_2.7.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_2.7.1\exercice_2.7.1\obj\Debug\net8.0\exercice_2.7.1.AssemblyInfoInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_2.7.1\exercice_2.7.1\obj\Debug\net8.0\exercice_2.7.1.AssemblyInfo.cs
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_2.7.1\exercice_2.7.1\obj\Debug\net8.0\exercice_2.7.1.csproj.CoreCompileInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_2.7.1\exercice_2.7.1\obj\Debug\net8.0\exercice_2.7.1.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_2.7.1\exercice_2.7.1\obj\Debug\net8.0\refint\exercice_2.7.1.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_2.7.1\exercice_2.7.1\obj\Debug\net8.0\exercice_2.7.1.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_2.7.1\exercice_2.7.1\obj\Debug\net8.0\exercice_2.7.1.genruntimeconfig.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_2.7.1\exercice_2.7.1\obj\Debug\net8.0\ref\exercice_2.7.1.dll

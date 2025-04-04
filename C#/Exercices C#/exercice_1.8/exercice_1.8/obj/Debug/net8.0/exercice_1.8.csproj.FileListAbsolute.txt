@@ -1,0 +1,14 @@
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_1.8\exercice_1.8\bin\Debug\net8.0\exercice_1.8.exe
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_1.8\exercice_1.8\bin\Debug\net8.0\exercice_1.8.deps.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_1.8\exercice_1.8\bin\Debug\net8.0\exercice_1.8.runtimeconfig.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_1.8\exercice_1.8\bin\Debug\net8.0\exercice_1.8.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_1.8\exercice_1.8\bin\Debug\net8.0\exercice_1.8.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_1.8\exercice_1.8\obj\Debug\net8.0\exercice_1.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_1.8\exercice_1.8\obj\Debug\net8.0\exercice_1.8.AssemblyInfoInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_1.8\exercice_1.8\obj\Debug\net8.0\exercice_1.8.AssemblyInfo.cs
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_1.8\exercice_1.8\obj\Debug\net8.0\exercice_1.8.csproj.CoreCompileInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_1.8\exercice_1.8\obj\Debug\net8.0\exercice_1.8.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_1.8\exercice_1.8\obj\Debug\net8.0\refint\exercice_1.8.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_1.8\exercice_1.8\obj\Debug\net8.0\exercice_1.8.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_1.8\exercice_1.8\obj\Debug\net8.0\exercice_1.8.genruntimeconfig.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_1.8\exercice_1.8\obj\Debug\net8.0\ref\exercice_1.8.dll
