@@ -1,0 +1,15 @@
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tp_emprunt\tp_emprunt\bin\Debug\net8.0\tp_emprunt.exe
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tp_emprunt\tp_emprunt\bin\Debug\net8.0\tp_emprunt.deps.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tp_emprunt\tp_emprunt\bin\Debug\net8.0\tp_emprunt.runtimeconfig.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tp_emprunt\tp_emprunt\bin\Debug\net8.0\tp_emprunt.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tp_emprunt\tp_emprunt\bin\Debug\net8.0\tp_emprunt.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tp_emprunt\tp_emprunt\obj\Debug\net8.0\tp_emprunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tp_emprunt\tp_emprunt\obj\Debug\net8.0\tp_emprunt.AssemblyInfoInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tp_emprunt\tp_emprunt\obj\Debug\net8.0\tp_emprunt.AssemblyInfo.cs
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tp_emprunt\tp_emprunt\obj\Debug\net8.0\tp_emprunt.csproj.CoreCompileInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tp_emprunt\tp_emprunt\obj\Debug\net8.0\tp_emprunt.sourcelink.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tp_emprunt\tp_emprunt\obj\Debug\net8.0\tp_emprunt.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tp_emprunt\tp_emprunt\obj\Debug\net8.0\refint\tp_emprunt.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tp_emprunt\tp_emprunt\obj\Debug\net8.0\tp_emprunt.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tp_emprunt\tp_emprunt\obj\Debug\net8.0\tp_emprunt.genruntimeconfig.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tp_emprunt\tp_emprunt\obj\Debug\net8.0\ref\tp_emprunt.dll

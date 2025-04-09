@@ -1,0 +1,15 @@
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Anagramme\Anagramme\bin\Debug\net8.0\Anagramme.exe
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Anagramme\Anagramme\bin\Debug\net8.0\Anagramme.deps.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Anagramme\Anagramme\bin\Debug\net8.0\Anagramme.runtimeconfig.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Anagramme\Anagramme\bin\Debug\net8.0\Anagramme.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Anagramme\Anagramme\bin\Debug\net8.0\Anagramme.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Anagramme\Anagramme\obj\Debug\net8.0\Anagramme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Anagramme\Anagramme\obj\Debug\net8.0\Anagramme.AssemblyInfoInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Anagramme\Anagramme\obj\Debug\net8.0\Anagramme.AssemblyInfo.cs
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Anagramme\Anagramme\obj\Debug\net8.0\Anagramme.csproj.CoreCompileInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Anagramme\Anagramme\obj\Debug\net8.0\Anagramme.sourcelink.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Anagramme\Anagramme\obj\Debug\net8.0\Anagramme.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Anagramme\Anagramme\obj\Debug\net8.0\refint\Anagramme.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Anagramme\Anagramme\obj\Debug\net8.0\Anagramme.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Anagramme\Anagramme\obj\Debug\net8.0\Anagramme.genruntimeconfig.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Anagramme\Anagramme\obj\Debug\net8.0\ref\Anagramme.dll

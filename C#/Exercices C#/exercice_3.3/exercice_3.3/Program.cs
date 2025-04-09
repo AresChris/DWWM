@@ -16,22 +16,24 @@
             {
                 Console.WriteLine("Le texte doit contenir 120 caractères minimum");
             }
-
-            foreach (char letter in list)
+            else
             {
-                letterCounts[letter] = 0;
-            }
-
-            foreach(char c in text.ToLower())
-            {
-                if(letterCounts.ContainsKey(c))
+                foreach (char letter in list)
                 {
-                    letterCounts[c]++;
+                    letterCounts[letter] = 0;
                 }
-            }
-            foreach(var letter in list)
-            {
-                Console.WriteLine($"La lettre {letter} est présente {letterCounts[letter]} fois.");
+
+                foreach (char c in text.ToLower())
+                {
+                    if (letterCounts.ContainsKey(c))
+                    {
+                        letterCounts[c]++;
+                    }
+                }
+                foreach (var letter in list)
+                {
+                    Console.WriteLine($"La lettre {letter} est présente {letterCounts[letter]} fois.");
+                }
             }
         }
     }

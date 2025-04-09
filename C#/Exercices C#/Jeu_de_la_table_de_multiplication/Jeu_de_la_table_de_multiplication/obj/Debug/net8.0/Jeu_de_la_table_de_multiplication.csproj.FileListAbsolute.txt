@@ -1,0 +1,15 @@
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Jeu_de_la_table_de_multiplication\Jeu_de_la_table_de_multiplication\bin\Debug\net8.0\Jeu_de_la_table_de_multiplication.exe
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Jeu_de_la_table_de_multiplication\Jeu_de_la_table_de_multiplication\bin\Debug\net8.0\Jeu_de_la_table_de_multiplication.deps.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Jeu_de_la_table_de_multiplication\Jeu_de_la_table_de_multiplication\bin\Debug\net8.0\Jeu_de_la_table_de_multiplication.runtimeconfig.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Jeu_de_la_table_de_multiplication\Jeu_de_la_table_de_multiplication\bin\Debug\net8.0\Jeu_de_la_table_de_multiplication.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Jeu_de_la_table_de_multiplication\Jeu_de_la_table_de_multiplication\bin\Debug\net8.0\Jeu_de_la_table_de_multiplication.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Jeu_de_la_table_de_multiplication\Jeu_de_la_table_de_multiplication\obj\Debug\net8.0\Jeu_de_la_table_de_multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Jeu_de_la_table_de_multiplication\Jeu_de_la_table_de_multiplication\obj\Debug\net8.0\Jeu_de_la_table_de_multiplication.AssemblyInfoInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Jeu_de_la_table_de_multiplication\Jeu_de_la_table_de_multiplication\obj\Debug\net8.0\Jeu_de_la_table_de_multiplication.AssemblyInfo.cs
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Jeu_de_la_table_de_multiplication\Jeu_de_la_table_de_multiplication\obj\Debug\net8.0\Jeu_de_la_table_de_multiplication.csproj.CoreCompileInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Jeu_de_la_table_de_multiplication\Jeu_de_la_table_de_multiplication\obj\Debug\net8.0\Jeu_de_la_table_de_multiplication.sourcelink.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Jeu_de_la_table_de_multiplication\Jeu_de_la_table_de_multiplication\obj\Debug\net8.0\Jeu_de_la_table_de_multiplication.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Jeu_de_la_table_de_multiplication\Jeu_de_la_table_de_multiplication\obj\Debug\net8.0\refint\Jeu_de_la_table_de_multiplication.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Jeu_de_la_table_de_multiplication\Jeu_de_la_table_de_multiplication\obj\Debug\net8.0\Jeu_de_la_table_de_multiplication.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Jeu_de_la_table_de_multiplication\Jeu_de_la_table_de_multiplication\obj\Debug\net8.0\Jeu_de_la_table_de_multiplication.genruntimeconfig.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\Jeu_de_la_table_de_multiplication\Jeu_de_la_table_de_multiplication\obj\Debug\net8.0\ref\Jeu_de_la_table_de_multiplication.dll

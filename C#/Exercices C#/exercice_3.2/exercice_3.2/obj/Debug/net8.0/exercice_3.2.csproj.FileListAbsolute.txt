@@ -12,3 +12,4 @@ C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exer
 C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_3.2\exercice_3.2\obj\Debug\net8.0\exercice_3.2.pdb
 C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_3.2\exercice_3.2\obj\Debug\net8.0\exercice_3.2.genruntimeconfig.cache
 C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_3.2\exercice_3.2\obj\Debug\net8.0\ref\exercice_3.2.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\exercice_3.2\exercice_3.2\obj\Debug\net8.0\exercice_3.2.sourcelink.json

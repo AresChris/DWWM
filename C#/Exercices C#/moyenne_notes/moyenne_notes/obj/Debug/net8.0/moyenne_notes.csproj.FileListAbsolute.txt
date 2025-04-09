@@ -1,0 +1,15 @@
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\moyenne_notes\moyenne_notes\bin\Debug\net8.0\moyenne_notes.exe
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\moyenne_notes\moyenne_notes\bin\Debug\net8.0\moyenne_notes.deps.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\moyenne_notes\moyenne_notes\bin\Debug\net8.0\moyenne_notes.runtimeconfig.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\moyenne_notes\moyenne_notes\bin\Debug\net8.0\moyenne_notes.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\moyenne_notes\moyenne_notes\bin\Debug\net8.0\moyenne_notes.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\moyenne_notes\moyenne_notes\obj\Debug\net8.0\moyenne_notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\moyenne_notes\moyenne_notes\obj\Debug\net8.0\moyenne_notes.AssemblyInfoInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\moyenne_notes\moyenne_notes\obj\Debug\net8.0\moyenne_notes.AssemblyInfo.cs
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\moyenne_notes\moyenne_notes\obj\Debug\net8.0\moyenne_notes.csproj.CoreCompileInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\moyenne_notes\moyenne_notes\obj\Debug\net8.0\moyenne_notes.sourcelink.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\moyenne_notes\moyenne_notes\obj\Debug\net8.0\moyenne_notes.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\moyenne_notes\moyenne_notes\obj\Debug\net8.0\refint\moyenne_notes.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\moyenne_notes\moyenne_notes\obj\Debug\net8.0\moyenne_notes.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\moyenne_notes\moyenne_notes\obj\Debug\net8.0\moyenne_notes.genruntimeconfig.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\moyenne_notes\moyenne_notes\obj\Debug\net8.0\ref\moyenne_notes.dll

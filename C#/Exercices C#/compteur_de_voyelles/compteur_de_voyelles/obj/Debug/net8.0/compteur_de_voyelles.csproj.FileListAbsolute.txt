@@ -1,0 +1,15 @@
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compteur_de_voyelles\compteur_de_voyelles\bin\Debug\net8.0\compteur_de_voyelles.exe
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compteur_de_voyelles\compteur_de_voyelles\bin\Debug\net8.0\compteur_de_voyelles.deps.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compteur_de_voyelles\compteur_de_voyelles\bin\Debug\net8.0\compteur_de_voyelles.runtimeconfig.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compteur_de_voyelles\compteur_de_voyelles\bin\Debug\net8.0\compteur_de_voyelles.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compteur_de_voyelles\compteur_de_voyelles\bin\Debug\net8.0\compteur_de_voyelles.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compteur_de_voyelles\compteur_de_voyelles\obj\Debug\net8.0\compteur_de_voyelles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compteur_de_voyelles\compteur_de_voyelles\obj\Debug\net8.0\compteur_de_voyelles.AssemblyInfoInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compteur_de_voyelles\compteur_de_voyelles\obj\Debug\net8.0\compteur_de_voyelles.AssemblyInfo.cs
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compteur_de_voyelles\compteur_de_voyelles\obj\Debug\net8.0\compteur_de_voyelles.csproj.CoreCompileInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compteur_de_voyelles\compteur_de_voyelles\obj\Debug\net8.0\compteur_de_voyelles.sourcelink.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compteur_de_voyelles\compteur_de_voyelles\obj\Debug\net8.0\compteur_de_voyelles.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compteur_de_voyelles\compteur_de_voyelles\obj\Debug\net8.0\refint\compteur_de_voyelles.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compteur_de_voyelles\compteur_de_voyelles\obj\Debug\net8.0\compteur_de_voyelles.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compteur_de_voyelles\compteur_de_voyelles\obj\Debug\net8.0\compteur_de_voyelles.genruntimeconfig.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compteur_de_voyelles\compteur_de_voyelles\obj\Debug\net8.0\ref\compteur_de_voyelles.dll
