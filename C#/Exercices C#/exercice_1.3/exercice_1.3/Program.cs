@@ -34,10 +34,10 @@ namespace exercice_1._3
                 saisie = false;
                 Console.WriteLine("Erreur, inscrivez des nombres.");
             }
-                Console.WriteLine($"Aire du secteur circulaire : {aireSecteurCirculaire}");
-                Console.WriteLine("Nouveau calcul ? O/N");
+                Console.WriteLine($"Aire du secteur circulaire : {aireSecteurCirculaire:F2}");
+                Console.WriteLine("Nouveau calcul ? Oui/Non");
                 input = Console.ReadLine().ToLower();
-                    if(input.Contains("o"))
+                    if(input.ToLower() == "oui")
                     {
                         saisie = true;
                     }
@@ -45,6 +45,7 @@ namespace exercice_1._3
                     {
                         saisie = false;
                         Console.WriteLine("Fin de programme");
+                        break;
                     }
             } while(saisie);
             

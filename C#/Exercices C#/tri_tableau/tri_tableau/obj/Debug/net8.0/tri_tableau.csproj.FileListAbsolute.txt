@@ -1,0 +1,15 @@
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tri_tableau\tri_tableau\bin\Debug\net8.0\tri_tableau.exe
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tri_tableau\tri_tableau\bin\Debug\net8.0\tri_tableau.deps.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tri_tableau\tri_tableau\bin\Debug\net8.0\tri_tableau.runtimeconfig.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tri_tableau\tri_tableau\bin\Debug\net8.0\tri_tableau.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tri_tableau\tri_tableau\bin\Debug\net8.0\tri_tableau.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tri_tableau\tri_tableau\obj\Debug\net8.0\tri_tableau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tri_tableau\tri_tableau\obj\Debug\net8.0\tri_tableau.AssemblyInfoInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tri_tableau\tri_tableau\obj\Debug\net8.0\tri_tableau.AssemblyInfo.cs
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tri_tableau\tri_tableau\obj\Debug\net8.0\tri_tableau.csproj.CoreCompileInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tri_tableau\tri_tableau\obj\Debug\net8.0\tri_tableau.sourcelink.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tri_tableau\tri_tableau\obj\Debug\net8.0\tri_tableau.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tri_tableau\tri_tableau\obj\Debug\net8.0\refint\tri_tableau.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tri_tableau\tri_tableau\obj\Debug\net8.0\tri_tableau.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tri_tableau\tri_tableau\obj\Debug\net8.0\tri_tableau.genruntimeconfig.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\tri_tableau\tri_tableau\obj\Debug\net8.0\ref\tri_tableau.dll

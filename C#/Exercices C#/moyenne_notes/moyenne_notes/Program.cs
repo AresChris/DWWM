@@ -6,14 +6,14 @@
         {
             double[] tableau;
             double temp = 0;
-            Console.WriteLine("combien de notes voulez-vous ajouter ?");
+            Console.Write("combien de notes voulez-vous ajouter ? : ");
             int taille = int.Parse(Console.ReadLine());
 
             tableau = new double[taille];
 
             for (int i = 0; i < taille; i++)
             {
-                Console.WriteLine($"Inscrivez la note {i+1} : ");
+                Console.Write($"Inscrivez la note {i+1} : ");
                 tableau[i] = int.Parse(Console.ReadLine());
                 temp = tableau[i] + temp;
             }

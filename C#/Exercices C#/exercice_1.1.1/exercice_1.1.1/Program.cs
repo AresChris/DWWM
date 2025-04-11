@@ -33,7 +33,7 @@
                 }
                 else
                 {
-                    Console.WriteLine("La saisie est fausse, il manque un éspace vide.");
+                    Console.WriteLine("La saisie est fausse, il manque un éspace vide !");
                 }
                 moyenne = (double)(a + b) / 2;
                 Console.WriteLine("La moyenne de a et b est de " + moyenne);

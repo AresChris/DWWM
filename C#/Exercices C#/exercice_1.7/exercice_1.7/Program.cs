@@ -1,80 +1,57 @@
-﻿namespace exercice_1._7
+﻿using System.ComponentModel;
+
+namespace exercice_1._7
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            double a, b, c;
-            int reponse;
-
-            Console.WriteLine("Trier 2 ou 3 nombres ?");
-            String input = Console.ReadLine();
-
-            if (int.TryParse(input, out reponse))
+            List<int> liste = new List<int>();
+            bool continuer = true;
+            
+            do
             {
-                if (reponse == 2)
+                int compteur = 0;
+                Console.Write("Inscrivez la première valeur : ");
+                int a = int.Parse(Console.ReadLine());
+                liste.Add(a);
+                Console.Write("Inscrivez la deuxième valeur : ");
+                int b = int.Parse(Console.ReadLine());
+                liste.Add(b);
+
+                Console.Write("Voulez-vous les classer dans l'ordre croissant ou décroissant ? ");
+                string reponse = Console.ReadLine();
+                if (reponse.ToLower() == "Croissant")
                 {
-                    Console.WriteLine("Saisir une valeur de a :");
-                    a = double.Parse(Console.ReadLine());
-
-                    Console.WriteLine("Saisir une valeur de b :");
-                    b = double.Parse(Console.ReadLine());
-
-                    if (a < b)
-                    {
-                        Console.WriteLine($"a: {a} \nb: {b}");
-                    }
-                    else
-                    {
-                        Console.WriteLine($"b: {b}\na: {a}");
-                    }
-                }
-                else if (reponse == 3)
-                {
-                    Console.WriteLine("Saisir une valeur de a :");
-                    a = double.Parse(Console.ReadLine());
-
-                    Console.WriteLine("Saisir une valeur de b :");
-                    b = double.Parse(Console.ReadLine());
-
-                    Console.WriteLine("Saisir une valeur de c :");
-                    c = double.Parse(Console.ReadLine());
-
-
-                    if (a<b && b<c)
-                    {
-                        Console.WriteLine($"a: {a} \nb: {b}\nac: {c}");
-                    }
-                    else if(a<c && c<b)
-                    {
-                        Console.WriteLine($"b: {a}\na: {c}\nb: {b}");
-                    }
-                    else if(b<a && a<c)
-                    {
-                        Console.WriteLine($"b: {b}\na: {a}\nc: {c}");
-                    }
-                    else if (b<c && c<a)
-                    {
-                        Console.WriteLine($"b: {b}\nc: {c}\na: {a}");
-                    }
-                    else if (c<b && b<a)
-                    {
-                        Console.WriteLine($"c: {c} \nb: {b}\na: {a}");
-                    }
-                    else if (c<a && a<b)
-                    {
-                        Console.WriteLine($"c: {c} \na: {a}\nb: {b}");
-                    }
-                    else
-                    {
-                        Console.WriteLine("il manque un cas, merci de contacter le dev qui à baclé le travail !");
-                    }
+                        liste.Sort();
                 }
                 else
                 {
-                    Console.WriteLine("Erreur de saisie, inscrivez un entier.");
+                        liste.Sort();
+                        liste.Reverse();
                 }
-            }
+                compteur = 0;
+                foreach (var item in liste)
+                {
+                    compteur++;
+                    Console.WriteLine($"valeur {compteur} : {item}");
+                }
+
+                Console.WriteLine("Voulez-vous continuer ? (O/N)");
+                reponse = Console.ReadLine();
+                if(reponse.ToLower() == "oui")
+                {
+                    continuer = true;
+                    Console.Clear();
+                    liste.Clear();
+                   
+                }
+                else
+                {
+                    continuer = false;
+                    break;
+                }
+            } while (continuer);
         }
     }
 }

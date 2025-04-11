@@ -6,28 +6,45 @@
         {
             int a= 0, b = 0, c = 0;
             String input;
-            Console.WriteLine("saisir la valeur de a : ");
-            input = Console.ReadLine();
-            if (int.TryParse(input, out a))
+            bool continuer = false;
+            do
             {
-                Console.WriteLine("saisir la valeur de b : ");
+                Console.WriteLine("saisir la valeur de a : ");
                 input = Console.ReadLine();
-                if (int.TryParse(input, out b))
+                if (int.TryParse(input, out a))
                 {
-                    c = a;
-                    a = b;
-                    b = c;
+                    Console.WriteLine("saisir la valeur de b : ");
+                    input = Console.ReadLine();
+                    if (int.TryParse(input, out b))
+                    {
+                        c = a;
+                        a = b;
+                        b = c;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Erreur, saisissez un nombre.");
+                    }
                 }
                 else
                 {
                     Console.WriteLine("Erreur, saisissez un nombre.");
-            }
-            }
-            else
-            {
-                Console.WriteLine("Erreur, saisissez un nombre.");
-            }
-            Console.WriteLine($"a : {a}\nb: {b}");    
+                }
+                Console.WriteLine($"a : {a}\nb: {b}");
+                Console.WriteLine("VOulez-vous recommencer ? oui/Non");
+                string reponse = Console.ReadLine();
+                if (reponse == "oui")
+                {
+                    continuer = true;
+                }
+                else
+                {
+                    continuer = false;
+                    Console.WriteLine("Fin du programme");
+                    break;
+                }
+            } while (continuer);
+           
         }
     }
 }
