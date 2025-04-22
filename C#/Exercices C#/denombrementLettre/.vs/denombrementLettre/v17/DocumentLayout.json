@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\denombrementLettre\\",
+  "WorkspaceRootPath": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\denombrementLettre\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98437A52-B938-49D5-BEE3-214842D1D667}|denombrementLettre\\denombrementLettre.csproj|c:\\users\\cares\\onedrive - centre de readaptation\\cours\\dwwm\\c#\\denombrementlettre\\denombrementlettre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98437A52-B938-49D5-BEE3-214842D1D667}|denombrementLettre\\denombrementLettre.csproj|c:\\users\\cares\\onedrive - centre de readaptation\\cours\\dwwm\\c#\\exercices c#\\denombrementlettre\\denombrementlettre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98437A52-B938-49D5-BEE3-214842D1D667}|denombrementLettre\\denombrementLettre.csproj|solutionrelative:denombrementlettre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\denombrementLettre\\denombrementLettre\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\denombrementLettre\\denombrementLettre\\Program.cs",
               "RelativeDocumentMoniker": "denombrementLettre\\Program.cs",
-              "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\denombrementLettre\\denombrementLettre\\Program.cs",
+              "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\denombrementLettre\\denombrementLettre\\Program.cs",
               "RelativeToolTip": "denombrementLettre\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAwwDEAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBwAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T09:34:19.935Z",
               "EditorCaption": ""

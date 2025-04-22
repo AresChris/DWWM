@@ -18,7 +18,7 @@ class Program
             if (char.IsLetter(c))
             {
                 // Vérifier si c'est une voyelle
-                if ("aeiou".Contains(c))
+                if ("aeiou".Contains(c) || "àèéôû".Contains(c))
                 {
                     nombreVoyelles++;
                 }

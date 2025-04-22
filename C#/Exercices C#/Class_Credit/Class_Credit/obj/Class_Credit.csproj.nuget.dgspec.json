@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Class_Credit\\Class_Credit\\Class_Credit.csproj": {}
+    "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\Class_Credit\\Class_Credit\\Class_Credit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Class_Credit\\Class_Credit\\Class_Credit.csproj": {
+    "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\Class_Credit\\Class_Credit\\Class_Credit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Class_Credit\\Class_Credit\\Class_Credit.csproj",
+        "projectUniqueName": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\Class_Credit\\Class_Credit\\Class_Credit.csproj",
         "projectName": "Class_Credit",
-        "projectPath": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Class_Credit\\Class_Credit\\Class_Credit.csproj",
+        "projectPath": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\Class_Credit\\Class_Credit\\Class_Credit.csproj",
         "packagesPath": "C:\\Users\\cares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Class_Credit\\Class_Credit\\obj\\",
+        "outputPath": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\Class_Credit\\Class_Credit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

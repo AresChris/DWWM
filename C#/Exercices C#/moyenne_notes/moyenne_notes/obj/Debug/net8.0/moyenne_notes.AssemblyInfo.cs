@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("moyenne_notes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+476b1a53497f7b561dca96d8e5f225b3b39921d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2687894ddc0717503aec5098b11c89ec7716d387")]
 [assembly: System.Reflection.AssemblyProductAttribute("moyenne_notes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("moyenne_notes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

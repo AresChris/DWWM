@@ -1,0 +1,15 @@
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\kiloutou\kiloutou\bin\Debug\net8.0\kiloutou.exe
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\kiloutou\kiloutou\bin\Debug\net8.0\kiloutou.deps.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\kiloutou\kiloutou\bin\Debug\net8.0\kiloutou.runtimeconfig.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\kiloutou\kiloutou\bin\Debug\net8.0\kiloutou.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\kiloutou\kiloutou\bin\Debug\net8.0\kiloutou.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\kiloutou\kiloutou\obj\Debug\net8.0\kiloutou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\kiloutou\kiloutou\obj\Debug\net8.0\kiloutou.AssemblyInfoInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\kiloutou\kiloutou\obj\Debug\net8.0\kiloutou.AssemblyInfo.cs
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\kiloutou\kiloutou\obj\Debug\net8.0\kiloutou.csproj.CoreCompileInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\kiloutou\kiloutou\obj\Debug\net8.0\kiloutou.sourcelink.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\kiloutou\kiloutou\obj\Debug\net8.0\kiloutou.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\kiloutou\kiloutou\obj\Debug\net8.0\refint\kiloutou.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\kiloutou\kiloutou\obj\Debug\net8.0\kiloutou.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\kiloutou\kiloutou\obj\Debug\net8.0\kiloutou.genruntimeconfig.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\kiloutou\kiloutou\obj\Debug\net8.0\ref\kiloutou.dll

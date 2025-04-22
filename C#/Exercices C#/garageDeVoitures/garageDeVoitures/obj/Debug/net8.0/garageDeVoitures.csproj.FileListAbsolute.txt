@@ -1,0 +1,15 @@
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\garageDeVoitures\garageDeVoitures\obj\Debug\net8.0\garageDeVoitures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\garageDeVoitures\garageDeVoitures\obj\Debug\net8.0\garageDeVoitures.AssemblyInfoInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\garageDeVoitures\garageDeVoitures\obj\Debug\net8.0\garageDeVoitures.AssemblyInfo.cs
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\garageDeVoitures\garageDeVoitures\obj\Debug\net8.0\garageDeVoitures.csproj.CoreCompileInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\garageDeVoitures\garageDeVoitures\obj\Debug\net8.0\garageDeVoitures.sourcelink.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\garageDeVoitures\garageDeVoitures\bin\Debug\net8.0\garageDeVoitures.exe
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\garageDeVoitures\garageDeVoitures\bin\Debug\net8.0\garageDeVoitures.deps.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\garageDeVoitures\garageDeVoitures\bin\Debug\net8.0\garageDeVoitures.runtimeconfig.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\garageDeVoitures\garageDeVoitures\bin\Debug\net8.0\garageDeVoitures.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\garageDeVoitures\garageDeVoitures\bin\Debug\net8.0\garageDeVoitures.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\garageDeVoitures\garageDeVoitures\obj\Debug\net8.0\garageDeVoitures.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\garageDeVoitures\garageDeVoitures\obj\Debug\net8.0\refint\garageDeVoitures.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\garageDeVoitures\garageDeVoitures\obj\Debug\net8.0\garageDeVoitures.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\garageDeVoitures\garageDeVoitures\obj\Debug\net8.0\garageDeVoitures.genruntimeconfig.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\garageDeVoitures\garageDeVoitures\obj\Debug\net8.0\ref\garageDeVoitures.dll

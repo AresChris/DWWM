@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\denombrementLettre\\denombrementLettre\\denombrementLettre.csproj": {}
+    "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\denombrementLettre\\denombrementLettre\\denombrementLettre.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\denombrementLettre\\denombrementLettre\\denombrementLettre.csproj": {
+    "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\denombrementLettre\\denombrementLettre\\denombrementLettre.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\denombrementLettre\\denombrementLettre\\denombrementLettre.csproj",
+        "projectUniqueName": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\denombrementLettre\\denombrementLettre\\denombrementLettre.csproj",
         "projectName": "denombrementLettre",
-        "projectPath": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\denombrementLettre\\denombrementLettre\\denombrementLettre.csproj",
+        "projectPath": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\denombrementLettre\\denombrementLettre\\denombrementLettre.csproj",
         "packagesPath": "C:\\Users\\cares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\denombrementLettre\\denombrementLettre\\obj\\",
+        "outputPath": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\denombrementLettre\\denombrementLettre\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

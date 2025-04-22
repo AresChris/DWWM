@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\garageDeVoitures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{226086A2-2A78-4CB4-9277-B9BDCEF34D25}|garageDeVoitures\\garageDeVoitures.csproj|c:\\users\\cares\\onedrive - centre de readaptation\\cours\\dwwm\\c#\\exercices c#\\garagedevoitures\\garagedevoitures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226086A2-2A78-4CB4-9277-B9BDCEF34D25}|garageDeVoitures\\garageDeVoitures.csproj|solutionrelative:garagedevoitures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\garageDeVoitures\\garageDeVoitures\\Program.cs",
+              "RelativeDocumentMoniker": "garageDeVoitures\\Program.cs",
+              "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\garageDeVoitures\\garageDeVoitures\\Program.cs*",
+              "RelativeToolTip": "garageDeVoitures\\Program.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwC4AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:35:21.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

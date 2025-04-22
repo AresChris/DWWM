@@ -13,3 +13,18 @@ C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\denombrementLettr
 C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\denombrementLettre\denombrementLettre\obj\Debug\net8.0\denombrementLettre.pdb
 C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\denombrementLettre\denombrementLettre\obj\Debug\net8.0\denombrementLettre.genruntimeconfig.cache
 C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\denombrementLettre\denombrementLettre\obj\Debug\net8.0\ref\denombrementLettre.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\denombrementLettre\denombrementLettre\bin\Debug\net8.0\denombrementLettre.exe
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\denombrementLettre\denombrementLettre\bin\Debug\net8.0\denombrementLettre.deps.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\denombrementLettre\denombrementLettre\bin\Debug\net8.0\denombrementLettre.runtimeconfig.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\denombrementLettre\denombrementLettre\bin\Debug\net8.0\denombrementLettre.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\denombrementLettre\denombrementLettre\bin\Debug\net8.0\denombrementLettre.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\denombrementLettre\denombrementLettre\obj\Debug\net8.0\denombrementLettre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\denombrementLettre\denombrementLettre\obj\Debug\net8.0\denombrementLettre.AssemblyInfoInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\denombrementLettre\denombrementLettre\obj\Debug\net8.0\denombrementLettre.AssemblyInfo.cs
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\denombrementLettre\denombrementLettre\obj\Debug\net8.0\denombrementLettre.csproj.CoreCompileInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\denombrementLettre\denombrementLettre\obj\Debug\net8.0\denombrementLettre.sourcelink.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\denombrementLettre\denombrementLettre\obj\Debug\net8.0\denombrementLettre.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\denombrementLettre\denombrementLettre\obj\Debug\net8.0\refint\denombrementLettre.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\denombrementLettre\denombrementLettre\obj\Debug\net8.0\denombrementLettre.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\denombrementLettre\denombrementLettre\obj\Debug\net8.0\denombrementLettre.genruntimeconfig.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\denombrementLettre\denombrementLettre\obj\Debug\net8.0\ref\denombrementLettre.dll

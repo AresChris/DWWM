@@ -6,7 +6,7 @@
         {
             double[] tableau;
             double temp = 0;
-            Console.Write("combien de notes voulez-vous ajouter ? : ");
+            Console.Write("Combien de notes voulez-vous ajouter ? : ");
             int taille = int.Parse(Console.ReadLine());
 
             tableau = new double[taille];
