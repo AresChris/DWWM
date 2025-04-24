@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jeu_de_la_table_de_multiplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e000e2c6d5a7c5f55e0c36e04e83e4a239405c27")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c2a2e9c414803618f1b2966fd0c86185eff82ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jeu_de_la_table_de_multiplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jeu_de_la_table_de_multiplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
