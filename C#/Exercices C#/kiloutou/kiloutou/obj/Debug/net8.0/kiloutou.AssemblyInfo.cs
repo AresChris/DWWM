@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kiloutou")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c2a2e9c414803618f1b2966fd0c86185eff82ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f35be31c420ce85e87ab7112931a0d209dcd489")]
 [assembly: System.Reflection.AssemblyProductAttribute("kiloutou")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kiloutou")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

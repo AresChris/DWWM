@@ -12,14 +12,26 @@
                 Console.WriteLine("Programme de vérification de palindrome\n");
                 Console.Write("Ecrivez une phrase ou un mot à vérifier : ");
                 String input = Console.ReadLine().ToLower();
+
                 input = input.Replace(" ", "");
+                input = input.Replace("à", "a");
+                input = input.Replace("é", "e");
+                input = input.Replace("è", "e");
+                input = input.Replace("â", "a");
+                input = input.Replace(".", "");
 
                 list.Add(input);
+
                 char[] reversedInput = input.ToCharArray();
                 Array.Reverse(reversedInput);
                 string reversed = new string(reversedInput);
 
                 reversed = reversed.Replace(" ", "");
+                reversed = reversed.Replace("à", "a");
+                reversed = reversed.Replace("é", "e");
+                reversed = reversed.Replace("è", "e");
+                reversed = reversed.Replace("â", "a");
+                reversed = reversed.Replace(".", "");
 
                 if (input.Equals("."))
                 {
@@ -31,7 +43,6 @@
                 }
                 else
                 {
-                    Console.WriteLine($"reversed : {reversed}");
                     Console.WriteLine("La phrase/le mot, n'est pas un palindrome");
                 }
                 Console.WriteLine("Voulez-vous recommencer ?");

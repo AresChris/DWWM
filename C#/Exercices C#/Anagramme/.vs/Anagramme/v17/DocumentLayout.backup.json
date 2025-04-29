@@ -10,7 +10,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 152,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Anagramme\\Program.cs",
               "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\Anagramme\\Anagramme\\Program.cs",
               "RelativeToolTip": "Anagramme\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCAAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T07:08:14.105Z",
               "EditorCaption": ""

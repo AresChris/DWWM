@@ -21,7 +21,13 @@ namespace kiloutou_switchCase
         }
         static bool AfficherMenu(List<Voitures> voitures)
         {
-            Console.WriteLine("\nMenu \n--------\n1. Trier les voitures\n2. Ajouter une voiture\n3. Supprimer une voiture\n4. Afficher toutes les voitures\n5. Rechercher par code\n6. Quitter");
+            Console.WriteLine("\nMenu \n--------" +
+                "\n1. Trier les voitures" +
+                "\n2. Ajouter une voiture" +
+                "\n3. Supprimer une voiture" +
+                "\n4. Afficher toutes les voitures" +
+                "\n5. Rechercher par code" +
+                "\n6. Quitter");
             string input = Console.ReadLine();
 
             switch (input)
@@ -162,13 +168,6 @@ namespace kiloutou_switchCase
         public int Compare(Voitures x, Voitures y)
         {
             return string.Compare(x.modele, y.modele);
-        }
-    }
-    class rechercherParCode : IComparer<Voitures>
-    {
-        public int Compare(Voitures x, Voitures y)
-        {
-            return string.Compare(x.code, y.code);
         }
     }
 }
