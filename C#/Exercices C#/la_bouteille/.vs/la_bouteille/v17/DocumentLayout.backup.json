@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\la_bouteille\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F28288B2-8B68-48A0-AB93-F42F756A9731}|la_bouteille\\la_bouteille.csproj|c:\\users\\cares\\onedrive - centre de readaptation\\cours\\dwwm\\c#\\exercices c#\\la_bouteille\\la_bouteille\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28288B2-8B68-48A0-AB93-F42F756A9731}|la_bouteille\\la_bouteille.csproj|solutionrelative:la_bouteille\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\la_bouteille\\la_bouteille\\Program.cs",
+              "RelativeDocumentMoniker": "la_bouteille\\Program.cs",
+              "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\la_bouteille\\la_bouteille\\Program.cs",
+              "RelativeToolTip": "la_bouteille\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwHIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:20:09.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
