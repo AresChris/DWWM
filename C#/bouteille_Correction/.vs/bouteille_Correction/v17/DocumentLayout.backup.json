@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\bouteille_Correction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\bouteille_Correction\\ClassLibraryBouteille\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassLibraryBouteille\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56482E5E-3CD2-4000-86BA-2523FAAE6E28}|bouteille_Correction\\bouteille_Correction.csproj|c:\\users\\cares\\onedrive - centre de readaptation\\cours\\dwwm\\c#\\bouteille_correction\\bouteille_correction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56482E5E-3CD2-4000-86BA-2523FAAE6E28}|bouteille_Correction\\bouteille_Correction.csproj|solutionrelative:bouteille_correction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56482E5E-3CD2-4000-86BA-2523FAAE6E28}|bouteille_Correction\\bouteille_Correction.csproj|c:\\users\\cares\\onedrive - centre de readaptation\\cours\\dwwm\\c#\\bouteille_correction\\bouteille_correction\\bouteille.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56482E5E-3CD2-4000-86BA-2523FAAE6E28}|bouteille_Correction\\bouteille_Correction.csproj|solutionrelative:bouteille_correction\\bouteille.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 259,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\bouteille_Correction\\ClassLibraryBouteille\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibraryBouteille\\Class1.cs",
+              "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\bouteille_Correction\\ClassLibraryBouteille\\Class1.cs",
+              "RelativeToolTip": "ClassLibraryBouteille\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:26:28.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bouteille.cs",
+              "DocumentMoniker": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\bouteille_Correction\\bouteille_Correction\\Bouteille.cs",
+              "RelativeDocumentMoniker": "bouteille_Correction\\Bouteille.cs",
+              "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\bouteille_Correction\\bouteille_Correction\\Bouteille.cs",
+              "RelativeToolTip": "bouteille_Correction\\Bouteille.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:22:07.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\bouteille_Correction\\bouteille_Correction\\Program.cs",
+              "RelativeDocumentMoniker": "bouteille_Correction\\Program.cs",
+              "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\bouteille_Correction\\bouteille_Correction\\Program.cs",
+              "RelativeToolTip": "bouteille_Correction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:07:10.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
