@@ -29,7 +29,7 @@ namespace la_bouteille
             {
                 Bouteille bouteilleChoisie = bouteilles[choixBouteille - 1];
                 Console.WriteLine("\nActions disponibles :");
-                Console.WriteLine("1. Ouvrir\n2. Fermer\n3. Remplir\n4. Vider\n5. Menu\n6. Ajouter une bouteille\n7. Supprimer une bouteille\n8. Quitter");
+                Console.WriteLine("1. Ouvrir\n2. Fermer\n3. Remplir\n4. Vider\n5. Ajouter une bouteille\n6. Supprimer une bouteille\n7. Menu\n8. Quitter");
                 string input = Console.ReadLine();
 
                 switch (input)
@@ -51,6 +51,12 @@ namespace la_bouteille
                         bouteilleChoisie.afficherEtat(choixBouteille);
                         break;
                     case "5":
+                        ajouterBouteille(bouteilles);
+                        break;
+                    case "6":
+                        supprimerBouteille(bouteilles, bouteilleChoisie.nom);
+                        break;
+                    case "7":
                         Console.WriteLine("\nChoisissez une bouteille :");
                         for (int i = 0; i < bouteilles.Count; i++)
                         {
@@ -60,12 +66,6 @@ namespace la_bouteille
                         {
                             Console.WriteLine("Veuillez entrer un numéro valide.");
                         }
-                        break;
-                    case "6":
-                        ajouterBouteille(bouteilles);
-                        break;
-                    case "7":
-                        supprimerBouteille(bouteilles, bouteilleChoisie.nom);
                         break;
                     case "8":
                         Console.WriteLine("Au revoir !");
@@ -245,7 +245,7 @@ namespace la_bouteille
             public void afficherEtat(int numero)
             {
             string etat = ouverte ? "ouverte" : "fermée";
-            Console.WriteLine($"{numero}. {nom} - {contenu}/{contenance} mL ({etat})");
+            Console.WriteLine($"{numero}. {nom} - {contenu}/{contenance} cl ({etat})");
             }
     }
 }
