@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.Design;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace la_bouteille
 {
@@ -79,7 +76,7 @@ namespace la_bouteille
                 {
                     Console.WriteLine("Quel est le nom de la bouteille que vous voulez ajouter ?");
                     string nom = Console.ReadLine();
-                    Console.WriteLine("Quelle est la contenance de la bouteille ?");
+                    Console.WriteLine("Quelle est la contenance de la bouteille en cl ?");
                     int contenance;
                     while (!int.TryParse(Console.ReadLine(), out contenance) || contenance <= 0)
                     {
@@ -164,7 +161,7 @@ namespace la_bouteille
             {
                 Console.WriteLine("La bouteille est fermée. Ouvrez-la d'abord.");
             }
-            if (contenu == contenance)
+            else if (contenu == contenance)
             {
                 Console.WriteLine("La bouteille est déjà pleine.");
             }
@@ -198,8 +195,7 @@ namespace la_bouteille
                 Console.WriteLine("La bouteille est fermée. Vous ne pouvez pas la vider.");
                 return;
             }
-
-            if (contenu == 0)
+            else if (contenu == 0)
             {
                 Console.WriteLine("La bouteille est déjà vide.");
             }
