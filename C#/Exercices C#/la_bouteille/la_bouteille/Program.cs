@@ -78,7 +78,7 @@ namespace la_bouteille
                     string nom = Console.ReadLine();
                     Console.WriteLine("Quelle est la contenance de la bouteille en cl ?");
                     int contenance;
-                    while (!int.TryParse(Console.ReadLine(), out contenance) || contenance <= 0)
+                while (!int.TryParse(Console.ReadLine(), out contenance) || contenance <= 0)
                     {
                         Console.WriteLine("Veuillez entrer une contenance valide.");
                     }
