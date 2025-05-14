@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bouteille", "Bouteille.csproj", "{16CA189B-73D3-4C37-AC45-AF6B1981EF9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16CA189B-73D3-4C37-AC45-AF6B1981EF9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16CA189B-73D3-4C37-AC45-AF6B1981EF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16CA189B-73D3-4C37-AC45-AF6B1981EF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16CA189B-73D3-4C37-AC45-AF6B1981EF9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C352A5F7-BFDB-4878-AD17-D6EE3FDEF498}
+	EndGlobalSection
+EndGlobal
