@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{16CA189B-73D3-4C37-AC45-AF6B1981EF9F}|Bouteille.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16CA189B-73D3-4C37-AC45-AF6B1981EF9F}|Bouteille.csproj|c:\\users\\cares\\onedrive - centre de readaptation\\cours\\dwwm\\c#\\exercices c#\\bouteille\\bouteille.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16CA189B-73D3-4C37-AC45-AF6B1981EF9F}|Bouteille.csproj|solutionrelative:bouteille.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16CA189B-73D3-4C37-AC45-AF6B1981EF9F}|Bouteille.csproj|c:\\users\\cares\\onedrive - centre de readaptation\\cours\\dwwm\\c#\\exercices c#\\bouteille\\classbouteille.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CA189B-73D3-4C37-AC45-AF6B1981EF9F}|Bouteille.csproj|solutionrelative:classbouteille.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,15 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Bouteille.cs",
-              "DocumentMoniker": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\bouteille\\Bouteille.cs",
-              "RelativeDocumentMoniker": "Bouteille.cs",
-              "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\bouteille\\Bouteille.cs",
-              "RelativeToolTip": "Bouteille.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAAAOAAAAAAAAAA==",
+              "Title": "ClassBouteille.cs",
+              "DocumentMoniker": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\bouteille\\ClassBouteille.cs",
+              "RelativeDocumentMoniker": "ClassBouteille.cs",
+              "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\bouteille\\ClassBouteille.cs",
+              "RelativeToolTip": "ClassBouteille.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T10:47:50.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T07:57:12.792Z"
             },
             {
               "$type": "Document",
@@ -43,9 +42,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\bouteille\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\bouteille\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAACYAAAAAAAAAAAAowEcAAAA0AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\bouteille\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T10:35:18.425Z",
               "EditorCaption": ""

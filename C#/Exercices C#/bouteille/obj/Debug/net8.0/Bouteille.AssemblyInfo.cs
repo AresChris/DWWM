@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bouteille")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c02e5b8505ed35e07521fbf8c11e723dbdfa5b07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55a0a40a3ab22d0d3588fcbcabda4bfbae21b9b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bouteille")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bouteille")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

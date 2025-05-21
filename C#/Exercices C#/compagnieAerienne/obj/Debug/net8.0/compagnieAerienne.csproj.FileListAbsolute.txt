@@ -1,0 +1,15 @@
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compagnieAerienne\bin\Debug\net8.0\compagnieAerienne.exe
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compagnieAerienne\bin\Debug\net8.0\compagnieAerienne.deps.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compagnieAerienne\bin\Debug\net8.0\compagnieAerienne.runtimeconfig.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compagnieAerienne\bin\Debug\net8.0\compagnieAerienne.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compagnieAerienne\bin\Debug\net8.0\compagnieAerienne.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compagnieAerienne\obj\Debug\net8.0\compagnieAerienne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compagnieAerienne\obj\Debug\net8.0\compagnieAerienne.AssemblyInfoInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compagnieAerienne\obj\Debug\net8.0\compagnieAerienne.AssemblyInfo.cs
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compagnieAerienne\obj\Debug\net8.0\compagnieAerienne.csproj.CoreCompileInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compagnieAerienne\obj\Debug\net8.0\compagnieAerienne.sourcelink.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compagnieAerienne\obj\Debug\net8.0\compagnieAerienne.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compagnieAerienne\obj\Debug\net8.0\refint\compagnieAerienne.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compagnieAerienne\obj\Debug\net8.0\compagnieAerienne.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compagnieAerienne\obj\Debug\net8.0\compagnieAerienne.genruntimeconfig.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\compagnieAerienne\obj\Debug\net8.0\ref\compagnieAerienne.dll

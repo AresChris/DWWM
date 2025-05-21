@@ -1,0 +1,15 @@
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteEnBanque\bin\Debug\net8.0\CompteEnBanque.exe
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteEnBanque\bin\Debug\net8.0\CompteEnBanque.deps.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteEnBanque\bin\Debug\net8.0\CompteEnBanque.runtimeconfig.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteEnBanque\bin\Debug\net8.0\CompteEnBanque.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteEnBanque\bin\Debug\net8.0\CompteEnBanque.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteEnBanque\obj\Debug\net8.0\CompteEnBanque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteEnBanque\obj\Debug\net8.0\CompteEnBanque.AssemblyInfoInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteEnBanque\obj\Debug\net8.0\CompteEnBanque.AssemblyInfo.cs
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteEnBanque\obj\Debug\net8.0\CompteEnBanque.csproj.CoreCompileInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteEnBanque\obj\Debug\net8.0\CompteEnBanque.sourcelink.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteEnBanque\obj\Debug\net8.0\CompteEnBanque.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteEnBanque\obj\Debug\net8.0\refint\CompteEnBanque.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteEnBanque\obj\Debug\net8.0\CompteEnBanque.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteEnBanque\obj\Debug\net8.0\CompteEnBanque.genruntimeconfig.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteEnBanque\obj\Debug\net8.0\ref\CompteEnBanque.dll

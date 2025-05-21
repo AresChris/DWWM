@@ -1,0 +1,15 @@
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteBancaire\obj\Debug\net8.0\CompteBancaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteBancaire\obj\Debug\net8.0\CompteBancaire.AssemblyInfoInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteBancaire\obj\Debug\net8.0\CompteBancaire.AssemblyInfo.cs
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteBancaire\obj\Debug\net8.0\CompteBancaire.csproj.CoreCompileInputs.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteBancaire\obj\Debug\net8.0\CompteBancaire.sourcelink.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteBancaire\bin\Debug\net8.0\CompteBancaire.exe
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteBancaire\bin\Debug\net8.0\CompteBancaire.deps.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteBancaire\bin\Debug\net8.0\CompteBancaire.runtimeconfig.json
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteBancaire\bin\Debug\net8.0\CompteBancaire.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteBancaire\bin\Debug\net8.0\CompteBancaire.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteBancaire\obj\Debug\net8.0\CompteBancaire.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteBancaire\obj\Debug\net8.0\refint\CompteBancaire.dll
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteBancaire\obj\Debug\net8.0\CompteBancaire.pdb
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteBancaire\obj\Debug\net8.0\CompteBancaire.genruntimeconfig.cache
+C:\Users\cares\OneDrive - CENTRE DE READAPTATION\Cours\DWWM\C#\Exercices C#\CompteBancaire\obj\Debug\net8.0\ref\CompteBancaire.dll
