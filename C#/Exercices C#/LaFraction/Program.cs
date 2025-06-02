@@ -5,41 +5,70 @@ namespace LaFraction
     {
         static void Main(string[] args)
         {
-            Fraction fraction1 = new Fraction(12, 7);
-            Fraction fraction2 = new Fraction(9, 1);
-            Fraction fraction3 = new Fraction(0, 1);
-            Fraction fraction4 = new Fraction(3, 4);
-            Fraction fraction5 = new Fraction(1, 2);
-            Console.WriteLine($"fraction1 : {fraction1.ToString()}");
+            Fraction f1 = new Fraction(12, 7);
+            Fraction f2 = new Fraction(9, 1);
+            Fraction f3 = new Fraction();
+           
+            Console.WriteLine(f1.ToString());
+            Console.WriteLine(f2.ToString());
+            Console.WriteLine(f3.ToString());
 
-            Console.WriteLine($"fraction2 : {fraction2.ToString()}");
+            Console.WriteLine("--------------------------"); // ++
+            Fraction f4 = new Fraction(4, 7);
+            Console.Write($"Oppose {f4.ToString()} = ");
+            f4.Oppose();
+            Console.WriteLine($"{f4.ToString()}"); // -4/7
 
-            Console.WriteLine($"fraction3 : {fraction3.ToString()}");
-
-            Console.WriteLine($"fraction4 : {fraction4.ToString()}");
-
-            Console.WriteLine($"L'opposé de fraction4 est : {fraction4.Oppose(fraction4.numerateur)} / {fraction4.denominateur}");
-
-            Console.WriteLine($"fraction5 : {fraction5.ToString()}");
-            fraction5.inverser();
-            Console.WriteLine($"Les nouvelles valeurs de fraction5 sont : {fraction5.numerateur}/{fraction5.denominateur}");
-
-            fraction1.EstSuperieurA(fraction2);
-            Console.WriteLine($"{fraction1.EstSuperieurA(fraction2)}");
-
-            fraction1.Plus(fraction2);
-            Console.WriteLine(fraction1.Plus(fraction2));
-
-            fraction1.Moins(fraction2);
-            Console.WriteLine(fraction1.Moins(fraction2));
-
-            fraction2.Multiplie(fraction4);
-            Console.WriteLine(fraction2.Multiplie(fraction4));
-
-            fraction3.Divise(fraction4);
-            Console.WriteLine(fraction3.Divise(fraction4));
+            Console.WriteLine("--------------------------");
+            Fraction f5 = new Fraction(4, 7);
+            Console.WriteLine($"Inverser {f5.ToString()} = ");
+            f5.Inverser();
+            Console.WriteLine($"{f5.ToString()}"); // 7/4 
+            f5.Inverser();
+            Console.WriteLine($"{f5.ToString()}"); // 4/7
+            
+            Console.WriteLine("--------------------------");
+            Fraction f6 = new Fraction(11, 7);
+            Fraction f7 = new Fraction(5, 4);
+            Console.Write($"{f6.ToString()} > {f7.ToString()} = ");
+            bool estSuperieur = f6.EstSuperieurA(f7);
+            Console.WriteLine(estSuperieur); // true
 
             
+            Console.WriteLine("--------------------------");
+            Fraction f8 = new Fraction(11, 7);
+            Fraction f9 = new Fraction(22, 14);
+            Console.Write($"{f8.ToString()} == {f9.ToString()} = ");
+            bool estEgal = f8.EgalA(f9);
+            Console.WriteLine(estEgal); // true 
+
+            Console.WriteLine("--------------------------");
+            Fraction f10 = new Fraction(3, 5);
+            Fraction f11 = new Fraction(4, 7);
+            Console.Write($"{f10.ToString()} * {f11.ToString()} = ");
+            Fraction f = f10.Multiplie(f11);
+            Console.WriteLine(f.ToString()); // 12/35
+
+            Console.WriteLine("--------------------------");
+            Fraction f12 = new Fraction(1, 2);
+            Fraction f13 = new Fraction(3, 5);
+            Console.Write($"{f12.ToString()} + {f13.ToString()} = ");
+            Fraction ff = f12.Plus(f13);
+            Console.WriteLine(ff.ToString()); // 10/11
+
+            Console.WriteLine("--------------------------");
+            Fraction f14 = new Fraction(4, 5);
+            Fraction f15 = new Fraction(1, 5);
+            Console.Write($"{f14.ToString()} - {f15.ToString()} = ");
+            Fraction fff = f14.Moins(f15);
+            Console.WriteLine(fff.ToString()); // 3/5 
+
+            Console.WriteLine("--------------------------");
+            Fraction f16 = new Fraction(4, 3);
+            Fraction f17 = new Fraction(2, 5);
+            Console.Write($"{f16.ToString()} / {f17.ToString()} = ");
+            Fraction ffff = f16.Divise(f17);
+            Console.WriteLine(ffff.ToString()); // 4/3
         }
     }
 }

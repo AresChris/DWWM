@@ -20,10 +20,9 @@ namespace LePoint
             x = _x;
             y = _y;
         }
-        public Point(Point pointAcopier)
+        public Point(Point pointAcopier):this(pointAcopier.x,pointAcopier.y)
         {
-            x = pointAcopier.x;
-            y = pointAcopier.y;
+        
         }
         public string ToString()
         {
@@ -34,33 +33,23 @@ namespace LePoint
             x = _nouveauX;
             y = _nouveauY;
         }
-        public void Permuter(Point autrePoint)
+        public void Permuter()
         {
-            float thirdPartyX = 0;
-            float thirdPartyY = 0;
-
-            thirdPartyX = this.x;
-            thirdPartyY = this.y;
-
-            this.x = autrePoint.x;
-            this.y = autrePoint.y;
-
-            autrePoint.x = thirdPartyX;
-            autrePoint.y = thirdPartyY;
+            (this.x, y) = (y, this.x);
         }
-        public void SymetrieAbscisse()
+        public Point SymetrieAbscisse()
         {
-            x = -x;
+            this.y = -y;
+            return this;
         }
-        public void SymetrieOrdonnee()
+        public Point SymetrieOrdonnee()
         {
-            y = -y;
+            this.x = -x;
+            return this;
         }
-        public void SymetrieOrigine()
+        public Point SymetrieOrigine()
         {
-            x = -x;
-            y = -y;
+            return this.SymetrieAbscisse().SymetrieOrdonnee();
         }
     }
-
 }

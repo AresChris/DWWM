@@ -1,29 +1,32 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Numerics;
+using System.Reflection.Metadata;
 using System.Text;
 using System.Threading.Tasks;
+using BanqueDuCompte;
 
 namespace CompteEnBanque
 {
     internal class Compte
     {
-        private int decouvertAutorise;
-        private int numero;
-        private int solde;
+        public int numero { get; set; }
+        public string nom { get; set; }
+        public int solde { get; set; }
+        public int decouvertAutorise { get; set; }
 
-        public Compte(int _decouvertAutorise, int _numero, int _solde)
+        public Compte(int _decouvertAutorise,string _nom, int _numero, int _solde)
         {
             this.decouvertAutorise = _decouvertAutorise;
+            this.nom = _nom;
             this.numero = _numero;
             this.solde = _solde;
         }
-        public Compte(Compte compteAcopier)
+        public Compte(Compte compteAcopier): this(compteAcopier.decouvertAutorise, compteAcopier.nom, compteAcopier.numero, compteAcopier.solde)
         {
-            this.decouvertAutorise = compteAcopier.decouvertAutorise;
-            this.numero = compteAcopier.numero;
-            this.solde = compteAcopier.solde;
         }
+
         public string ToString()
         {
             return "Numéro de compte: " + numero + "\n" +
@@ -36,10 +39,7 @@ namespace CompteEnBanque
             {
                throw new ArgumentException("Le montant doit être supérieur à 0");
             }
-            if(montant>0)
-            {
-                solde += montant;
-            }
+               solde += montant;
         }
         public bool Debiter(int montant)
         {
@@ -47,7 +47,7 @@ namespace CompteEnBanque
             {
                 throw new ArgumentException("Le montant doit être supérieur à 0" + montant);
             }
-            if (montant > 0)
+            if (montant >= 0 && solde > decouvertAutorise)
             {
                 solde -= montant;
                 return true;

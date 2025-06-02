@@ -14,7 +14,8 @@ namespace ProgrammeCompteBancaire
             Console.WriteLine(c1.ToString());
             Console.WriteLine(c2.ToString());
 
-            if(c1.Superieur(c2))
+            c2.CompareTo(c1);
+            if (c1.Superieur(c2))
             {
                 Console.WriteLine("Superieur");
             }

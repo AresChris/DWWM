@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{9A64BC80-13F2-487B-B705-972CA22AC211}|LaFraction.csproj|c:\\users\\cares\\onedrive - centre de readaptation\\cours\\dwwm\\c#\\exercices c#\\lafraction\\lafraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A64BC80-13F2-487B-B705-972CA22AC211}|LaFraction.csproj|solutionrelative:lafraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A64BC80-13F2-487B-B705-972CA22AC211}|LaFraction.csproj|c:\\users\\cares\\onedrive - centre de readaptation\\cours\\dwwm\\c#\\exercices c#\\lafraction\\classdiagramfraction.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{9A64BC80-13F2-487B-B705-972CA22AC211}|LaFraction.csproj|solutionrelative:classdiagramfraction.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +22,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassDiagramFraction.cd",
+              "DocumentMoniker": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\LaFraction\\ClassDiagramFraction.cd",
+              "RelativeDocumentMoniker": "ClassDiagramFraction.cd",
+              "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\LaFraction\\ClassDiagramFraction.cd",
+              "RelativeToolTip": "ClassDiagramFraction.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-05-26T06:16:55.474Z"
             },
             {
               "$type": "Document",
@@ -32,7 +47,7 @@
               "RelativeDocumentMoniker": "LaFraction.cs",
               "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\LaFraction\\LaFraction.cs*",
               "RelativeToolTip": "LaFraction.cs*",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAgwG4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAwwHwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T09:11:44.708Z",
               "EditorCaption": ""
@@ -45,7 +60,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\LaFraction\\Program.cs*",
               "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCcAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T09:11:28.578Z",
               "EditorCaption": ""

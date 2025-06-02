@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.Design;
 using System.Linq;
 using System.Numerics;
 using System.Runtime.CompilerServices;
@@ -13,125 +14,116 @@ namespace LaFraction
         public int numerateur;
         public int denominateur;
 
-        public string ToString()
-        {
-            return $"{numerateur}/{denominateur}";
-        }
-        public Fraction(Fraction fractionAcopier)
+
+        public Fraction(Fraction fractionAcopier): this(fractionAcopier.numerateur, fractionAcopier.denominateur)//
         {
         }
+
         public Fraction(int _numerateur, int _denominateur)
         {
+            if(_denominateur == 0)
+            {
+                throw new ArgumentException("Le dénominateur ne peut pas être nul");
+            }
             numerateur = _numerateur;
             denominateur = _denominateur;
+
         }
-        public int calculFraction(int numerateur, int denominateur)
+        public Fraction():this(1,1)
         {
-            if (denominateur == null || numerateur == null)
-            {
-                throw new ArgumentNullException("Les fractions ne peuvent pas être nulles.");
-            }
-            int resultat = numerateur / denominateur;
-            return resultat;
         }
-        public int Oppose(int numerateur)
+        public Fraction(int numerateur)
         {
-            if(numerateur == null)
+        }
+        public override string ToString()
+        {
+            if (numerateur == 0)
             {
-                throw new ArgumentNullException("Les fractions ne peuvent pas être nulles.");
+                return $"{0}";
             }
+            if(denominateur == 1)
+            {
+                return $"{numerateur}";
+            }
+            return $"{numerateur}/{denominateur}";
+        }
+        public void Oppose()
+        {
             numerateur = -numerateur;
-            return numerateur;
         }
-        public void inverser()
+        public void Inverser()
         {
-            int temp = numerateur;
+            if (numerateur == 0)
+            {
+                throw new ArgumentException("Le dénominateur ne peut pas être égal à zéro.");
+            }
+            int temp = 0;
+            temp = numerateur;
             numerateur = denominateur;
             denominateur = temp;
         }
         public bool EstSuperieurA(Fraction autreFraction)
         {
-            if(autreFraction == null)
-            {
-                throw new ArgumentNullException("Les fractions ne peuvent pas être nulles.");
-            }
-            int resultat1 = this.numerateur * autreFraction.denominateur;
-            int resultat2 = autreFraction.numerateur * this.denominateur;
-
-            if (resultat1 > resultat2)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            return (this.Evalue() > autreFraction.Evalue());
         }
-        private int GetPGCD()
+        private double Evalue()
         {
-            int a = this.numerateur;
-            int b = this.denominateur;
-            int pgcd = 1;
-            if (a != 0 && b != 0)
-            {
-                while (a != b)
-                {
-                    if (a < b)
-                    {
-                        b = b - a;
-                    }
-                    else
-                    {
-                        a = a - b;
-                    }
-                }
-                pgcd = a;
-            }
-            return pgcd;
+            return ((double)this.numerateur) / this.denominateur;
         }
-        public string Plus(Fraction autreFraction)
+        private int Pgcd()
         {
-            if (autreFraction == null)
+            int a=this.numerateur;  
+            int b=this.denominateur;
+            while (b != 0)
             {
-                throw new ArgumentNullException("Les fractions ne peuvent pas être nulles.");
+                int temp = b;
+                b = a % b;
+                a = temp;
             }
-            int addNumerateur = this.numerateur + autreFraction.numerateur;
-            int addDenominateur = this.denominateur + autreFraction.denominateur;
-            string resultat = $"{addNumerateur} / {addDenominateur}";
+            return Math.Abs(a);
+        }
+        public Fraction Plus(Fraction autreFraction)
+        {
+            Fraction resultat;
+            int newNumerateur = (this.numerateur * autreFraction.denominateur) + (this.denominateur * autreFraction.numerateur);
+            int newDenominateur= this.denominateur * autreFraction.denominateur;
+            resultat = new Fraction(newNumerateur, newDenominateur);
+            resultat.Reduire();
             return resultat;
         }
-        public string Moins(Fraction autreFraction)
-        {
-            if (autreFraction == null)
-            {
-                throw new ArgumentNullException("Les fractions ne peuvent pas être nulles.");
-            }
-            int moinsNumerateur = this.numerateur - autreFraction.numerateur;
-            int moinsDenominateur = this.denominateur - autreFraction.denominateur;
-            string resultat = $"{moinsNumerateur} / {moinsDenominateur}";
+       public Fraction Moins(Fraction autreFraction)
+       {
+            Fraction resultat;
+            int newNumerateur = this.numerateur - autreFraction.numerateur;
+            resultat = new Fraction(newNumerateur, denominateur);
+            resultat.Reduire();
             return resultat;
-        }
-        public string Multiplie(Fraction autreFraction)
+       }
+        public Fraction Multiplie(Fraction autreFraction)
         {
-            if (autreFraction == null)
-            {
-                throw new ArgumentNullException("Les fractions ne peuvent pas être nulles.");
-            }
             int multNumerateur = this.numerateur * autreFraction.numerateur;
             int multDenominateur = this.denominateur * autreFraction.denominateur;
-            string resultat = $"{multNumerateur} / {multDenominateur}";
-            return resultat;
+            Fraction resultat = new Fraction(multNumerateur, multDenominateur);
+            resultat.Reduire();
+            return new Fraction(multNumerateur, multDenominateur);
         }
-        public string Divise(Fraction autreFraction)
+        public Fraction Divise(Fraction autreFraction)
         {
-            if (autreFraction == null)
-            {
-                throw new ArgumentNullException("Les fractions ne peuvent pas être nulles.");
-            }
-            int divNumerateur = this.numerateur / autreFraction.numerateur;
-            int divDenominateur = this.denominateur / autreFraction.denominateur;
-            string resultat = $"{divNumerateur} / {divDenominateur}";
-            return resultat;
+            int multNumerateur = this.numerateur * autreFraction.denominateur;
+            int multDenominateur = this.denominateur * autreFraction.numerateur;
+            Fraction resultat = new Fraction(multNumerateur, multDenominateur);
+            resultat.Reduire();
+            return new Fraction(multNumerateur, multDenominateur); 
         }
+        public bool EgalA(Fraction autreFraction)
+        {
+            return this.Evalue() == autreFraction.Evalue();
+        } 
+        private void Reduire()
+        {
+            int pgcd = Pgcd();
+            numerateur /= pgcd;
+            denominateur /= pgcd;
+        } 
     }
 }
