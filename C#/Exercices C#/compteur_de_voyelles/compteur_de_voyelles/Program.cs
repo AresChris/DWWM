@@ -2,6 +2,15 @@
 
 class Program
 {
+    static void Main(string[] args)
+    {
+        // Demander à l'utilisateur d'entrer une phrase
+        Console.Write("Entrez une phrase : ");
+        string phrase = Console.ReadLine();
+
+        // Appeler la méthode pour compter les voyelles et les consonnes
+        CompterVoyellesConsonnes(phrase);
+    }
     // Méthode pour compter les voyelles et les consonnes
     static void CompterVoyellesConsonnes(string phrase)
     {
@@ -18,7 +27,7 @@ class Program
             if (char.IsLetter(c))
             {
                 // Vérifier si c'est une voyelle
-                if ("aeiou".Contains(c) || "àèéôû".Contains(c))
+                if ("aeiouy".Contains(c) || "àèéôûù".Contains(c))
                 {
                     nombreVoyelles++;
                 }
@@ -33,15 +42,5 @@ class Program
         // Afficher les résultats
         Console.WriteLine($"Nombre de voyelles : {nombreVoyelles}");
         Console.WriteLine($"Nombre de consonnes : {nombreConsonnes}");
-    }
-
-    static void Main(string[] args)
-    {
-        // Demander à l'utilisateur d'entrer une phrase
-        Console.Write("Entrez une phrase : ");
-        string phrase = Console.ReadLine();
-
-        // Appeler la méthode pour compter les voyelles et les consonnes
-        CompterVoyellesConsonnes(phrase);
     }
 }

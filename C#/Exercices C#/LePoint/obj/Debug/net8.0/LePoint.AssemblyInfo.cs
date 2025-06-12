@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LePoint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e6fbdecc82df76efe535c15dc39861fb375ded1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee498255b941ce57030210a0f76c8a62505807a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("LePoint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LePoint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

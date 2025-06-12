@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleAppJeu421/1.0.0": {
+        "runtime": {
+          "ConsoleAppJeu421.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppJeu421/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

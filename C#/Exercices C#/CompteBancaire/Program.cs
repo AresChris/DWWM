@@ -10,11 +10,15 @@ namespace ProgrammeCompteBancaire
 
             CompteBancaire c1 = new CompteBancaire(12345, "toto", 1000, -500);
             CompteBancaire c2 = new CompteBancaire(45657, "titi", 2000, -1000);
-            c1.Transferer(1300, c2);
+
+            bool result = c1.Transferer(1000, c2);
+            Console.WriteLine(result);
+            
             Console.WriteLine(c1.ToString());
             Console.WriteLine(c2.ToString());
 
             c2.CompareTo(c1);
+
             if (c1.Superieur(c2))
             {
                 Console.WriteLine("Superieur");
@@ -23,7 +27,7 @@ namespace ProgrammeCompteBancaire
             {
                 Console.WriteLine("Inférieur");
             }
-
+            
         }
     }
 }

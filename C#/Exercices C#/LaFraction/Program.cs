@@ -14,7 +14,7 @@ namespace LaFraction
             Console.WriteLine(f3.ToString());
 
             Console.WriteLine("--------------------------"); // ++
-            Fraction f4 = new Fraction(4, 7);
+            Fraction f4 = new Fraction(-4, 7);
             Console.Write($"Oppose {f4.ToString()} = ");
             f4.Oppose();
             Console.WriteLine($"{f4.ToString()}"); // -4/7

@@ -47,7 +47,7 @@ namespace CompteEnBanque
             {
                 throw new ArgumentException("Le montant doit être supérieur à 0" + montant);
             }
-            if (montant >= 0 && solde > decouvertAutorise)
+            if (montant > 0 && (solde-montant) >= decouvertAutorise)
             {
                 solde -= montant;
                 return true;
@@ -64,7 +64,10 @@ namespace CompteEnBanque
             {
                 return true;
             }
-            return false;
+            else
+            {
+                return false;
+            }
         }
         public bool Transferer(int montant, Compte compteDestinataire)
         {
@@ -80,8 +83,15 @@ namespace CompteEnBanque
                     compteDestinataire.Crediter(montant);
                     return true;
                 }
+                else
+                {
+                    return false;
+                }
             }
-            return false;
+            else
+            {
+                return false;
+            }
         }
     }
 }

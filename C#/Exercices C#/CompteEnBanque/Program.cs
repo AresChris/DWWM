@@ -13,14 +13,9 @@ namespace CompteEnBanque;
 
             Banque c = new Banque("Credit Agricole", "Strasbourg");
 
-           if(b.Transferer(1245, 2568, 1000))
-            {
-               Console.WriteLine("Transfer effectué");
-            }
-            else
-            {
-               Console.WriteLine("Transfer impossible");
-            } 
+            bool result = b.Transferer(1245, 2568, 2300);
+            Console.WriteLine(result);
+        Console.WriteLine(b.ToString());
         }
     }
 

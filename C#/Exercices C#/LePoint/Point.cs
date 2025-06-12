@@ -37,19 +37,39 @@ namespace LePoint
         {
             (this.x, y) = (y, this.x);
         }
-        public Point SymetrieAbscisse()
+        public Point SymetrieAbscisse(Point autrePoint)
         {
-            this.y = -y;
-            return this;
+            if(this.y > 0)
+            {
+                autrePoint.y = -this.y;
+                autrePoint.x = this.x;
+            }
+            else if(this.y < 0)
+            {
+                autrePoint.y = this.y;
+                autrePoint.x = this.x;
+            }
+            return autrePoint;
         }
-        public Point SymetrieOrdonnee()
+        public Point SymetrieOrdonnee(Point autrePoint)
         {
-            this.x = -x;
-            return this;
+            if (this.y > 0)
+            {
+                autrePoint.y = this.y;
+                autrePoint.x = -this.x;
+            }
+            else if (this.y < 0)
+            {
+                autrePoint.y = this.y;
+                autrePoint.x = this.x;
+            }
+            return autrePoint;
         }
-        public Point SymetrieOrigine()
+        public Point SymetrieOrigine(Point nouveauPoint)
         {
-            return this.SymetrieAbscisse().SymetrieOrdonnee();
+            nouveauPoint.SymetrieAbscisse(nouveauPoint);
+            nouveauPoint.SymetrieOrdonnee(nouveauPoint);
+            return nouveauPoint;
         }
     }
 }

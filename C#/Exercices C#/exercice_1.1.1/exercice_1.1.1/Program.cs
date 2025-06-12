@@ -16,10 +16,10 @@
                 {
                     if (int.TryParse(nombres[0], out a))
                     {
-                        Console.WriteLine("a " + a);
+                        Console.WriteLine("a : " + a);
                         if (int.TryParse(nombres[1], out b))
                         {
-                            Console.WriteLine("b " + b);
+                            Console.WriteLine("b : " + b);
                         }
                         else
                         {

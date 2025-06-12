@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Numerics;
 using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
@@ -46,16 +47,16 @@ namespace ClassCompteBancaire
         {
             if (montant < 0)
             {
-                throw new ArgumentException("Le montant à débiter doit être positif.");
+                throw new ArgumentException("Le montant doit être supérieur à 0" + montant);
             }
-            if (solde - montant < decouvertAutorise)
-            {
-                return false;
-            }
-            else
+            if (montant > 0 && (solde - montant) >= decouvertAutorise)
             {
                 solde -= montant;
                 return true;
+            }
+            else
+            {
+                return false;
             }
         }
         public bool Transferer(int montant, CompteBancaire compteDestinataire)
@@ -64,13 +65,23 @@ namespace ClassCompteBancaire
             {
                 throw new ArgumentException("Le montant à transférer doit être positif.");
             }
-            if(Debiter(montant))
+
+            if (montant > 0)
             {
-                this.Debiter(montant);
-                compteDestinataire.Crediter(montant);
-                return true;
+                if (this.Debiter(montant))
+                {
+                    compteDestinataire.Crediter(montant);
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
             }
-            return false;
+            else
+            {
+                return false;
+            }
         }
         public bool Superieur(CompteBancaire _autreCompte)
         {

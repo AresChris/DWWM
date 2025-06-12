@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\Jeu421\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{528D584F-1BE0-41E7-B5DC-0D5B53F7F5BE}|Jeu421\\Jeu421.csproj|c:\\users\\cares\\onedrive - centre de readaptation\\cours\\dwwm\\c#\\exercices c#\\jeu421\\jeu421\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528D584F-1BE0-41E7-B5DC-0D5B53F7F5BE}|Jeu421\\Jeu421.csproj|solutionrelative:jeu421\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528D584F-1BE0-41E7-B5DC-0D5B53F7F5BE}|Jeu421\\Jeu421.csproj|c:\\users\\cares\\onedrive - centre de readaptation\\cours\\dwwm\\c#\\exercices c#\\jeu421\\jeu421\\manche421.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528D584F-1BE0-41E7-B5DC-0D5B53F7F5BE}|Jeu421\\Jeu421.csproj|solutionrelative:jeu421\\manche421.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528D584F-1BE0-41E7-B5DC-0D5B53F7F5BE}|Jeu421\\Jeu421.csproj|c:\\users\\cares\\onedrive - centre de readaptation\\cours\\dwwm\\c#\\exercices c#\\jeu421\\jeu421\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528D584F-1BE0-41E7-B5DC-0D5B53F7F5BE}|Jeu421\\Jeu421.csproj|solutionrelative:jeu421\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528D584F-1BE0-41E7-B5DC-0D5B53F7F5BE}|Jeu421\\Jeu421.csproj|c:\\users\\cares\\onedrive - centre de readaptation\\cours\\dwwm\\c#\\exercices c#\\jeu421\\jeu421\\classalea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528D584F-1BE0-41E7-B5DC-0D5B53F7F5BE}|Jeu421\\Jeu421.csproj|solutionrelative:jeu421\\classalea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528D584F-1BE0-41E7-B5DC-0D5B53F7F5BE}|Jeu421\\Jeu421.csproj|c:\\users\\cares\\onedrive - centre de readaptation\\cours\\dwwm\\c#\\exercices c#\\jeu421\\jeu421\\jeu421.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{528D584F-1BE0-41E7-B5DC-0D5B53F7F5BE}|Jeu421\\Jeu421.csproj|solutionrelative:jeu421\\jeu421.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 259,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Jeu421.csproj",
+              "DocumentMoniker": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\Jeu421\\Jeu421\\Jeu421.csproj",
+              "RelativeDocumentMoniker": "Jeu421\\Jeu421.csproj",
+              "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\Jeu421\\Jeu421\\Jeu421.csproj",
+              "RelativeToolTip": "Jeu421\\Jeu421.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-06T06:39:02.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassAlea.cs",
+              "DocumentMoniker": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\Jeu421\\Jeu421\\ClassAlea.cs",
+              "RelativeDocumentMoniker": "Jeu421\\ClassAlea.cs",
+              "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\Jeu421\\Jeu421\\ClassAlea.cs",
+              "RelativeToolTip": "Jeu421\\ClassAlea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:37:33.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manche421.cs",
+              "DocumentMoniker": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\Jeu421\\Jeu421\\Manche421.cs",
+              "RelativeDocumentMoniker": "Jeu421\\Manche421.cs",
+              "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\Jeu421\\Jeu421\\Manche421.cs",
+              "RelativeToolTip": "Jeu421\\Manche421.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:17:17.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "De.cs",
+              "DocumentMoniker": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\Jeu421\\Jeu421\\De.cs",
+              "RelativeDocumentMoniker": "Jeu421\\De.cs",
+              "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\Jeu421\\Jeu421\\De.cs",
+              "RelativeToolTip": "Jeu421\\De.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:24:16.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\Jeu421\\Jeu421\\Program.cs",
+              "RelativeDocumentMoniker": "Jeu421\\Program.cs",
+              "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\Jeu421\\Jeu421\\Program.cs",
+              "RelativeToolTip": "Jeu421\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:22:31.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

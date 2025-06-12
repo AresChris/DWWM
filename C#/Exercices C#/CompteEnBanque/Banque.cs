@@ -44,9 +44,9 @@ namespace BanqueDuCompte
         }
         public void AjouterCompte(int _numero, string _nom, int _solde, int _decouvertAutorise)
         {
-            mesComptes.Add(new Compte(_decouvertAutorise, _nom, _numero, _solde));
+            AjouterCompte(new Compte(_decouvertAutorise, _nom, _numero, _solde));
         }
-        public void supprimeCompte(Compte unCompte)
+        public void SupprimeCompte(Compte unCompte)
         {
             mesComptes.Remove(unCompte);
         }
@@ -63,7 +63,7 @@ namespace BanqueDuCompte
             }
             return comptes;
         }
-        public int CompareTo(Banque autreCompte)
+        public int CompareTo(Banque? autreCompte)
         {
             if (autreCompte == null)
             {
@@ -101,17 +101,14 @@ namespace BanqueDuCompte
             {
                 throw new ArgumentNullException("Le compte d'origine et le compte déstinataire doivent être entrés.");
             }
-            compteOrigine.Transferer(montant, compteDestinataire); 
-
-            return false;
-         }
-         public bool CompteSup(Compte _autreCompte)
-         {
-            foreach(Compte compte in mesComptes)
+            if(compteOrigine.Transferer(montant, compteDestinataire))
             {
-                compte.Superieur(_autreCompte);
+                return true;
             }
-            return false;
+            else
+            {
+                return false;
+            }
          } 
     }
 }

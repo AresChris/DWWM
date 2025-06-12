@@ -27,7 +27,6 @@ namespace LaFraction
             }
             numerateur = _numerateur;
             denominateur = _denominateur;
-
         }
         public Fraction():this(1,1)
         {
@@ -65,6 +64,10 @@ namespace LaFraction
         public bool EstSuperieurA(Fraction autreFraction)
         {
             return (this.Evalue() > autreFraction.Evalue());
+        }
+        public bool EgalA(Fraction autreFraction)
+        {
+            return this.Evalue() == autreFraction.Evalue();
         }
         private double Evalue()
         {
@@ -105,7 +108,7 @@ namespace LaFraction
             int multDenominateur = this.denominateur * autreFraction.denominateur;
             Fraction resultat = new Fraction(multNumerateur, multDenominateur);
             resultat.Reduire();
-            return new Fraction(multNumerateur, multDenominateur);
+            return resultat;
         }
         public Fraction Divise(Fraction autreFraction)
         {
@@ -115,10 +118,6 @@ namespace LaFraction
             resultat.Reduire();
             return new Fraction(multNumerateur, multDenominateur); 
         }
-        public bool EgalA(Fraction autreFraction)
-        {
-            return this.Evalue() == autreFraction.Evalue();
-        } 
         private void Reduire()
         {
             int pgcd = Pgcd();

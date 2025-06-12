@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\CompteBancaire\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B42D838C-8469-4099-99AB-00472DFEB5B1}|CompteBancaire.csproj|c:\\users\\cares\\onedrive - centre de readaptation\\cours\\dwwm\\c#\\exercices c#\\comptebancaire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42D838C-8469-4099-99AB-00472DFEB5B1}|CompteBancaire.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B42D838C-8469-4099-99AB-00472DFEB5B1}|CompteBancaire.csproj|c:\\users\\cares\\onedrive - centre de readaptation\\cours\\dwwm\\c#\\exercices c#\\comptebancaire\\classcomptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B42D838C-8469-4099-99AB-00472DFEB5B1}|CompteBancaire.csproj|solutionrelative:classcomptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B42D838C-8469-4099-99AB-00472DFEB5B1}|CompteBancaire.csproj|c:\\users\\cares\\onedrive - centre de readaptation\\cours\\dwwm\\c#\\exercices c#\\comptebancaire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B42D838C-8469-4099-99AB-00472DFEB5B1}|CompteBancaire.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B42D838C-8469-4099-99AB-00472DFEB5B1}|CompteBancaire.csproj|c:\\users\\cares\\onedrive - centre de readaptation\\cours\\dwwm\\c#\\exercices c#\\comptebancaire\\comptebancaire.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B42D838C-8469-4099-99AB-00472DFEB5B1}|CompteBancaire.csproj|solutionrelative:comptebancaire.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B42D838C-8469-4099-99AB-00472DFEB5B1}|CompteBancaire.csproj|c:\\users\\cares\\onedrive - centre de readaptation\\cours\\dwwm\\c#\\exercices c#\\comptebancaire\\classdiagramcomptebancaire.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CompteBancaire",
+              "DocumentMoniker": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\CompteBancaire\\CompteBancaire.csproj",
+              "RelativeDocumentMoniker": "CompteBancaire.csproj",
+              "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\CompteBancaire\\CompteBancaire.csproj",
+              "RelativeToolTip": "CompteBancaire.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T12:33:46.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ClassDiagramCompteBancaire.cd",
               "DocumentMoniker": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\CompteBancaire\\ClassDiagramCompteBancaire.cd",
               "RelativeDocumentMoniker": "ClassDiagramCompteBancaire.cd",
@@ -41,26 +58,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ClassCompteBancaire.cs",
               "DocumentMoniker": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\CompteBancaire\\ClassCompteBancaire.cs",
               "RelativeDocumentMoniker": "ClassCompteBancaire.cs",
               "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\CompteBancaire\\ClassCompteBancaire.cs",
               "RelativeToolTip": "ClassCompteBancaire.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowCkAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T05:52:55.699Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\CompteBancaire\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\CompteBancaire\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\cares\\OneDrive - CENTRE DE READAPTATION\\Cours\\DWWM\\C#\\Exercices C#\\CompteBancaire\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T05:52:27.919Z",
               "EditorCaption": ""
