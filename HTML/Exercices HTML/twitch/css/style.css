@@ -1,0 +1,100 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    font-family: monospace;
+    margin-left: 30px;
+}
+h1{
+    color:  #008CBA;
+    font-family: monospace;
+    width: 650px;
+}
+.novembre{
+    background-color:  rgb(212, 206, 206);
+    font-size: 10px;
+    margin-top: 30px;
+    margin-right: 45px;
+    width: 80px;
+    height: 12px;
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.button{
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+    margin-right: 280px;
+}
+.populaire{
+    display: flex;
+    background-color: #008CBA;
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    width: 150px;
+    height: 50px;
+}
+.visionnage{
+    display: flex;
+    background-color:  #4CAF50;
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    width: 150px;
+    height: 50px;
+}
+.rapide{
+    display: flex;
+    background-color:  #555555;
+    color: white;
+    width: 200px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    width: 200px;
+    height: 50px;
+}
+table th{
+    background-color: rgb(212, 206, 206);
+    border : 1px solid black;
+}
+table td{
+    border: 1px solid black;
+}
+.greenTitle{
+    color: white;
+    background-color: #4CAF50;
+}
+#div{
+    border: 1px solid;
+}
+#nomBleu{
+    background-color: #008CBA;
+}
+#nom{
+    display: flex;
+    flex-direction: row;
+}

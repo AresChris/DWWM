@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Liste sous forme de tableau</title>
+        <link rel="stylesheet" href="./assets/css/main.css">
+        <style>
+            table {
+                border-collapse: collapse;
+                width: 50%;
+                margin: 20px auto;
+            }
+
+            th,
+            td {
+                border: 1px solid #ddd;
+                padding: 8px;
+                text-align: left;
+            }
+
+            th {
+                background-color: #f4f4f4;
+            }
+
+            img {
+                width: 230px;
+                height: 150px;
+            }
+        </style>
+    </head>
+
+    <body id="bodyListeAvions">
+        <table>
+            <thead>
+                <tr>
+                    <th>id</th>
+                    <th>constructeur</th>
+                    <th>modele</th>
+                    <th>passagers</th>
+                    <th>fret</th>
+                    <th>autonomie</th>
+                    <th>vitesse_croisiere</th>
+                    <th>vitesse_max</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>AIRBUS</td>
+                    <td>A300</td>
+                    <td>290</td>
+                    <td>0</td>
+                    <td>7500</td>
+                    <td>900</td>
+                    <td>990</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>AIRBUS</td>
+                    <td>A320</td>
+                    <td>180</td>
+                    <td>0</td>
+                    <td>5000</td>
+                    <td>900</td>
+                    <td>990</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>AIRBUS</td>
+                    <td>A350</td>
+                    <td>440</td>
+                    <td>0</td>
+                    <td>11800</td>
+                    <td>920</td>
+                    <td>1010</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>AIRBUS</td>
+                    <td>A380</td>
+                    <td>0</td>
+                    <td>300</td>
+                    <td>15200</td>
+                    <td>903</td>
+                    <td>1020</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>BOEING</td>
+                    <td>717</td>
+                    <td>125</td>
+                    <td>0</td>
+                    <td>9000</td>
+                    <td>890</td>
+                    <td>975</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>BOEING</td>
+                    <td>737</td>
+                    <td>0</td>
+                    <td>200</td>
+                    <td>14800</td>
+                    <td>920</td>
+                    <td>1020</td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>BOEING</td>
+                    <td>747</td>
+                    <td>350</td>
+                    <td>0</td>
+                    <td>10500</td>
+                    <td>900</td>
+                    <td>1010</td>
+                </tr>
+                <tr>
+                    <td>8</td>
+                    <td>BOEING</td>
+                    <td>777</td>
+                    <td>0</td>
+                    <td>270</td>
+                    <td>16500</td>
+                    <td>980</td>
+                    <td>1020</td>
+                </tr>
+            </tbody>
+        </table>
+        <h2>Gallerie d'images</h2>
+        <div id="gallery">
+            <div id="firsts">
+                <figure>
+                    <img src="https://arfp.github.io/tp/web/html-css/img/airbus-a300.jpg" alt="AirbusA300">
+                    <figcaption>
+                        <h2>Airbus A300</h2>
+                        </figcaptioin>
+                </figure>
+
+                <figure>
+                    <img src="https://arfp.github.io/tp/web/html-css/img/airbus-a320.jpg" alt="AirbusA320">
+                    <figcaption>
+                        <h2>Airbus A320</h2>
+                    </figcaption>
+                </figure>
+                <figure>
+                    <img src="https://arfp.github.io/tp/web/html-css/img/airbus-a350.jpg" alt="AirbusA350">
+                    <figcaption>
+                        <h2>Airbus A350</h2>
+                    </figcaption>
+                </figure>
+            </div>
+            <div id="seconds">
+                <figure>
+                    <img src="https://arfp.github.io/tp/web/html-css/img/airbus-a380.jpg" alt="Airbus-a380">
+                    <figcaption>
+                        <h2>Airbus A380</h2>
+                    </figcaption>
+                </figure>
+                <figure>
+                <img src="https://arfp.github.io/tp/web/html-css/img/boeing-717.jpg" alt="Boeing717">
+                <figcaption>
+                    <h2>Boeing 717</h2>
+                </figcaption>
+                </figure>
+                <figure>
+                    <img src="https://arfp.github.io/tp/web/html-css/img/boeing-737.jpg" alt="Boeing737">
+                    <figcaption>
+                        <h2>Boeing 737</h2>
+                    </figcaption>
+                </figure>
+            </div>
+            <div id="third">
+                <figure>
+                    <img src="https://arfp.github.io/tp/web/html-css/img/boeing-747.jpg" alt="Boeing747">
+                    <figcaption>
+                        <h2>Boeing 747</h2>
+                    </figcaption>
+                </figure>
+                <figure>
+                    <img src="https://arfp.github.io/tp/web/html-css/img/boeing-777.jpg" alt="Boeing777">
+                    <figcaption>
+                        <h2>Boeing 777</h2>
+                    </figcaption>
+                </figure>
+            </div>
+        </div>
+        <p><button class="retour_index"><a href="./index.html">index</a></button></p>
+    </body>
+
+</html>

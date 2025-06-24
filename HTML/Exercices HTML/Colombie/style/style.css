@@ -1,0 +1,22 @@
+.yellow{
+    background-color: #FCD116;
+    padding: 200px;
+}
+.blue{
+    background-color: #003893;
+    padding: 100px;
+}
+.red{
+    background-color: #CE1126;
+    padding: 100px;
+}
+h1{
+    text-align: center;
+    border: 1px solid black;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+p{
+    text-align: center;
+}

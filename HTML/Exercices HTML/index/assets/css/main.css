@@ -1,0 +1,92 @@
+#bodyIndex{
+    background-color: #222222;
+}
+h1{
+    color: #CCFFCC;
+    text-align: center;
+}
+h3{
+    color: #CCFFCC;
+}
+#liste_avions button{
+    display: flex;
+    background-color:  #224422;
+    color: #CCCCFF;
+    align-self: center;
+    list-style-type: square;
+    list-style: none;
+    text-decoration: none;
+    border: 1px;
+    border-color: #CCFFCC;
+    flex-direction: column;
+    justify-content: flex-end;
+    flex-grow: initial;
+    width: 150px;
+    height: 30px;
+    align-items: left;
+    align-content: left;
+} 
+a{
+    text-decoration: none;
+    color: #CCCCFF;
+}
+#liste_avions button:hover{
+background-color: #CCFFCC;
+}
+p{
+    font-family: Verdana;
+    color: #FFFFFF;
+}
+footer{
+   text-align: center;
+}
+#imageplane{
+    width: 150px;
+}
+header{
+    display: flex;
+    background-color: #224422;
+    width: auto;
+    justify-content: flex-end;
+    justify-content: space-between;
+}
+#btn-bleu{
+    font-size: 20px;
+    text-align: top;
+    cursor: pointer;
+    border: 10px;
+}
+#divImages{
+    text-align: center;
+}
+.gallery{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    color: black;
+}
+#firsts{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: align-items;
+}
+#seconds{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: align-items;
+}
+#third{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: align-items;
+    align-content: center;
+}
+#btn{
+    display: flex;
+    text-decoration: #CCCCFF;
+    text-decoration: none;
+}

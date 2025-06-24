@@ -1,0 +1,45 @@
+
+header{
+    display: flex;
+    background-color: grey;
+    width: 100%;
+    height: 75px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid blue;
+}
+h1{
+    color: blue;
+}
+.texte{
+    background-color: grey;
+    width: 100%;
+    height: 75px;
+    text-align: left;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    padding-left: 20px;
+    border: 1px solid blue;
+}
+.Informations{
+    display: flex;
+    flex-direction: column;
+    background-color: grey;
+    width: 100%;
+    height: 100px;
+    justify-content: center;
+    padding-left: 20px;
+    border: 1px solid blue;
+}
+h2{
+    color: blue;
+}
+table th{
+    background-color: grey;
+}
+table, th, td, tr {
+    border: 1px solid blue;
+  }
+
+

@@ -1,0 +1,27 @@
+body {
+   background-image: url("https://arfp.github.io/tp/web/html-css/img/css-16-bg.webp");
+    }
+.images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.image1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+}
+.image2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 230px;
+}
+.image3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}

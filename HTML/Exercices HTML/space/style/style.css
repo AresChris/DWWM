@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    align-items:flex-start;
+    justify-content: center;
+    background-image: url("../assets/snow-black.gif");
+}
+body :first-child{
+    width: 90px;
+    height: 90px;
+    background-color: white;
+    border-radius: 50%;
+    margin-top: 350px;
+}
+body :nth-child(2){
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border-radius: 50%;
+    margin: 150px;
+}
+body :nth-child(3){
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 50%;
+    margin-top: 100px;
+}
