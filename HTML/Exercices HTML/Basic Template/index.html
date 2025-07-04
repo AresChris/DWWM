@@ -1,58 +1,62 @@
 <!DOCTYPE html>
 <html lang="fr-fr">
+
     <head>
         <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Mon blog technique</title>
-    <link rel="stylesheet" type="text/css" href="./style/style.css">
-    <header>
-        <h1>Mon blog technique</h1>
-    </header>
+        <link rel="stylesheet" type="text/css" href="./style/style.css">
+    </head>
 
     <body>
-        <main>
-            <div class="links">
-                <section class="menu">
-                    <h2>Menu</h2>
-                </section>
-                <section class="buttons">
-                    <section><button><a href="">Accueil</a></button></section>
-                    <section><button><a href="">Articles</a></button></section>
-                    <section><button><a href="">Tutoriaux</a></button></section>
-                    <section><button><a href="">A propos</a></button></section>
-                    <section><button><a href="">Contact</a></button></section>
-                </section>
+        <header>
+            <h1>Mon blog technique</h1>
+        </header>
+        <div class="menu">
+            <h2>Menu</h2>
+            <section class="buttons">
+                <section><a href="#">Accueil</a></section>
+                <section><a href="#">Articles</a></section>
+                <section><a href="#">Tutoriaux</a></section>
+                <section><a href="#">A propos</a></section>
+                <section><a href="#">Contact</a></section>
+            </section>
+        </div>
+        <div class="main-bienvenue">
+            <div class="bienvenue">
+                <h2>Bienvenue sur notre site</h2>
             </div>
-            <div class="main">
-                <div class="bienvenue">
-                    <h2>Bienvenue sur notre site</h2>
-                    <div class="columns">
-                        <div class="column1">
-                            <div>Article #1</div>
-                            <div>Article #3</div>
-                            <div>Article #5</div>
-                        </div>
-                        <div class="column2">
-                            <div>Article #2</div>
-                            <div>Article #4</div>
-                            <div>Article #6</div>
-                        </div>
-                    </div>
+            <div class="columns">
+                <div class="column1">
+                    <div>Article #1</div>
+                    <div>Article #3</div>
+                    <div>Article #5</div>
+                </div>
+                <div class="column2">
+                    <div>Article #2</div>
+                    <div>Article #4</div>
+                    <div>Article #6</div>
                 </div>
             </div>
-            <div class="pub">
-                <div class="publicite">Publicité</div>
-                <img src="./assets/basic-template-aside.jpg">
-                <p>Ce livre sur l'algorithmique s'adresse à toute persone désireuse
-                    de maîtriser les bases essentielles de la programmation.
-                    Pour apprendre à programmer, il faut d'abord comprendre ce qu'est vraiment un ordinateur,
-                    comment il fonctionne et surtout comment on peut faire fonctionner des programmes,
-                    comment il manipule
-                    et stocke les données et les instructions, quelle est sa logique. Alors au fur et à mesure,
-                    le reste devient une évidence :
-                    variables, conditions, boucles...</p>
+        </div>
+        <div class="pub">
+            <div class="publicite">Publicité</div>
+            <img src="./assets/basic-template-aside.jpg" alt="Livre algorithmique" class="pub-image">
+            <p>Ce livre sur l'algorithmique s'adresse à toute persone désireuse
+                de maîtriser les bases essentielles de la programmation.
+                Pour apprendre à programmer, il faut d'abord comprendre ce qu'est vraiment un ordinateur,
+                comment il fonctionne et surtout comment on peut faire fonctionner des programmes,
+                comment il manipule
+                et stocke les données et les instructions, quelle est sa logique. Alors au fur et à mesure,
+                le reste devient une évidence :
+                variables, conditions, boucles...</p>
+            <form
+                action="https://www.amazon.fr/Algorithmique-Techniques-fondamentales-programmation-informatique/dp/2409012264"
+                method="get">
                 <button class="achete"><b>J'achète !</b></button>
-            </div>
-        </main>
+            </form>
+        </div>
+
     </body>
 
 </html>

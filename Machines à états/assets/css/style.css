@@ -1,0 +1,23 @@
+        header{
+            text-align: center;
+            justify-content: space-between;
+        }
+        html, body {
+            background-color: #2a5e4e;
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: white;
+            line-height: 1.6;
+        }
+        a{
+            text-decoration: none;
+        }
+        li{
+            color: white;
+            line-height: 1.6;
+        }

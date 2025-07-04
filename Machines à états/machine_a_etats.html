@@ -1,40 +1,85 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Untitled Document</title>
-    <style>
-        header{
-            text-align: center;
-        }
-        body {
-            background-color: #2a5e4e;
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        p {
-            color: white;
-            line-height: 1.6;
-        }
-    </style>
+    <title>Machines à états</title>
+    <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
 </head>
 <header>
     <h1>Machines à états</h1>
+   
+        <form action="./origine_historique.html">
+            <button type="submit">Origines historiques</button>
+        </form>
+        <form action="./avenir.html">
+            <button type="submit">Avenir</button>
+        </form>
 </header>
-<body>
-    <div>
-        
-        <h2>Qu'est-ce qu'une machine à états ?</h2>
-    </div>
-    <p>Un ordinateur est une machine à états, il passe d'un état à un autre selon ce qui lui
+<body> 
+        <h2>Qu'est-ce qu'une machine à états et à quoi ca sert ?</h2>
+    <p>Une machine à états est un modèle de calcul qui permet de représenter le comportement d'un système
+        en fonction de ses états et des événements qui le déclenchent.</p>
+
+    <p>Elle est composée d'un ensemble d'états, de transitions entre ces états et d'événements qui déclenchent
+        ces transitions.
+    Les machines à états sont utilisées dans divers domaines tels que l'informatique, l'électronique,
+        la robotique, etc.<br>
+    Un ordinateur est une machine à états, il passe d'un état à un autre selon ce qui lui
     est demandé : à l'appui d'une touche, à l'ouverture d'un fichier, etc.</p>
     <p>Lorsqu'un jeu est lancé, l'ordinateur passe d'un état à un autre plusieurs milliers/millions 
     de fois par secondes.</p> 
-        
+        <p>Un feu rouge est une machine à états. Il peut être dans l'état vert, orange ou rouge, 
+            et il passe d'un état à un autre en fonction du temps ou des capteurs de circulation.</p>
+        <p>Un autre exemple est un distributeur automatique, qui peut être dans l'état d'attente, d'acceptation
+        de paiement, ensuite de délivrance de produit, etc. Chaque état a des transitions définies par les actions
+        de l'utilisateur (insérer de l'argent, sélectionner un produit, etc.).</p>
+        <p>Prenons le cas d'un personnage de jeu vidéo : </p>
+        <p>Si l'état est "debout, alors il peut passer à marcher, sinon sauter, ensuite debout et ensuite marcher ou sauter</p>
+        <p>Même si les actions sont très rapides et donnent l'illusion qu'elles sont faites en même temps,
+            il ne peut pas être dans deux états à la fois.</p>
+    
+    <label for="code">Python</label><br>
+<textarea id="code" name="code" rows="35" cols="50" placeholder="">
+    class Personnage:
+    def __init__(self):
+        self.etat = "debout"  # état initial
 
+    def action(self, commande):
+        if self.etat == "debout":
+            if commande == "marcher":
+                self.etat = "marcher"
+            elif commande == "sauter":
+                self.etat = "sauter"
+
+        elif self.etat == "marcher":
+            if commande == "arreter":
+                self.etat = "debout"
+            elif commande == "sauter":
+                self.etat = "sauter"
+
+        elif self.etat == "sauter":
+            if commande == "atterrir":
+                self.etat = "debout"
+
+        print(f"État actuel : {self.etat}")
+
+# Exemple d'utilisation
+perso = Personnage()
+perso.action("marcher")   # passe à marcher
+perso.action("sauter")    # passe à sauter
+perso.action("atterrir")  # revient à debout
+perso.action("arreter")   # reste debout (pas de changement ici)
+</textarea>
+    <p>Il existe différentes machines à états, une console de jeu, un télephone, un feu tricolore ou un robot aspirateur 
+        sont des machines à états.
+    </p>
+    <p>Pour exemple un robot aspirateur passe par différents états :
+        <li>Chargement</li>
+        <li>Nettoyage</li>
+        <li>Retour à la base</li>
+        <li>Blocage</li>
+        <li>Eteint</li>
+    </p>
 </body>
 </html>

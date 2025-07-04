@@ -1,5 +1,5 @@
                 body {
-                  background-color: #0f0f0f;
+                  background-color: #ffffff00;
                   margin: 20px;
                 }
 
@@ -10,7 +10,7 @@
                   width: max-content;
                   border: 1px solid #ccc;
                   padding: 10px;
-                  background: white;
+                  background: rgba(255, 255, 255, 0);
                 }
                 .noir1 {
                   grid-column: 3;
