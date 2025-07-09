@@ -10,6 +10,8 @@
   --box_shadow_color: black;
   --border_color: yellow;
 }
+/* proposer un mode sombre au client
+
 @media (prefers-color-scheme: dark) {
     :root{
         --html_background: #000000;
@@ -17,7 +19,7 @@
     html{
         background-color: var(--html_background);
     }
-}
+} */
 html{
     display: flex;
     flex-direction: column;
