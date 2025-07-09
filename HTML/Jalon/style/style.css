@@ -36,6 +36,10 @@ body{
     font-size: larger;
     padding: 20px;
     border: 2px dotted var(--border_color);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
     box-shadow: var(--box_shadow_color);
     font-family: Arial, Helvetica, sans-serif;
     
