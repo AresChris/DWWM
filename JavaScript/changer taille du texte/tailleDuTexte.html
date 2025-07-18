@@ -1,26 +1,26 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Compteur</title>
-</head>
-<body>
-    <h1>Changer la taille du texte</h1>
-    <button id="increase">Augmenter la taille du texte</button>
-    <p id="texte">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-        Nesciunt voluptas vitae ad saepe, fugit laborum adipisci officia incidunt 
-        magni necessitatibus officiis sit? Culpa, esse in voluptas iusto illo ea 
-        labore!</p>
-    <script>
-       function changeFontSize(increment) {
-            const paragraph = document.getElementById('texte');
-            const currentSize = window.getComputedStyle(paragraph, null).getPropertyValue('font-size');
-            const newSize = parseFloat(currentSize) + increment;
-            paragraph.style.fontSize = newSize + 'px';
-        }
 
-        document.getElementById('increase').addEventListener('click', function() {
-            changeFontSize(2); // Augmente la taille de 2px
-        });
-    </script>
-</body>
+    <head>
+        <title>Compteur</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type=texte/css href="./style/style.css">
+        <script src="./style/main.js" defer></script>
+    </head>
+
+    <body>
+        <h1>Changer la taille du texte</h1>
+        <div class="container">
+            <button id="increase">Augmenter la taille du texte</button>
+            <button id="decrease">Diminuer la taille du texte</button>
+            <input type="number" id="textarea" placeholder="Indiquez la taille du texte : "></textarea></textarea>
+        </div>
+            <p>Taille actuelle : <span id="tailleActuelle">16</span> px</p>
+
+        <p id="texte">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Nesciunt voluptas vitae ad saepe, fugit laborum adipisci officia incidunt
+            magni necessitatibus officiis sit? Culpa, esse in voluptas iusto illo ea
+            labore!</p>
+    </body>
 </html>

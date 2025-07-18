@@ -1,27 +1,18 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Compteur</title>
-</head>
-<body>
-  <script>
-    let compteur = 0;
 
-    function incrementer() {
-        compteur++;
-        document.getElementById("compteur").textContent = compteur;
-    }
-    function decrementer() {
-        compteur = 0;
-        document.getElementById("compteur").textContent = compteur;
-    }
-    </script>
-    <button onclick = incrementer()>Incrémenter</button>
-    <button onclick = decrementer()>Réinitialiser</button>
+  <head>
+    <title>Compteur</title>
+    <script src="./style/main.js"></script>
+  </head>
+
+  <body>
+    <button onclick=incrementer()>Incrémenter</button>
+    <button onclick=reinitialiser()>Réinitialiser</button>
     <p>Le compteur à été cliqué <span id="compteur">0</span> fois.</p>
+  </body>
 
-</body>
 </html>
-
 </body>
+
 </html>
