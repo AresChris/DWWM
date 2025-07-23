@@ -99,8 +99,3 @@ function getMonth(userDate) {
 }
 
 calculate.addEventListener('click', calculateAge);
-
-/*
- si le mois est janvier et que le jour est superieur égal à 20 et inferieur égal à 31 ou le mois est février et le jour inferieur égal à 18
-    si le mois est janvier
-*/

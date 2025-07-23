@@ -1,0 +1,24 @@
+html{
+    display: flex;
+    justify-content: center;
+}
+body{
+    border : 1px solid blue;
+    width: 800px;
+    height: 320px; 
+    padding-left: 20px;  
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#date, #hour, #date2, #hour2, #a {
+    color: blue;
+    font-weight: bold;
+}
+#currentTime, #currentDate, #display{
+    border: 1px solid blue;
+}
+.fieldset{
+    border: none;
+}
+.fieldset2{
+    border: none;
+}

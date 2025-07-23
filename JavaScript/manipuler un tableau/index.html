@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Manipuler un tableau</title>
+        <link rel="stylesheet" href="./style/style.css">
+        <script src="./style/main.js" defer></script>
+    </head>
+
+    <body>
+        <h1>Liste des personnes inscrites</h1>
+        <section>
+            
+            <fieldset>
+                <p>Ajouter une personne</p>
+                <label for="prenom">Prénom: </label>
+                <input id="prenom" type="text">
+                <label for="nom">Nom: </label>
+                <input id="nom" type="text">
+                <button id="ajouter">Ajouter</button>
+                
+            </fieldset>
+        </section>
+        <section>
+            <li>Mike Dev</li>
+            <li>John Makenzie</li>
+            <li>Léa Grande</li>
+        </section>
+        <table id = "myTable">
+            <tr>
+                <th>Nom</th>
+                <th>Prénom</th>
+                <th>Email</th>
+                <th>Supprimer</th>
+            </tr>
+            <tr>
+                <td>Dev</td>
+                <td>Mike</td>
+                <td>mike.Dev@exemple.com</td>
+                <td><button>X</button></td>
+            </tr>
+            <tr>
+                <td>Makenzie</td>
+                <td>John</td>
+                <td>John.Makenzie@exemple.com</td>
+                <td><button>X</button></td>
+            </tr>
+            <tr>
+                <td>Grande</td>
+                <td>Léa</td>
+                <td>Léa.Grande@exemple.com</td>
+                <td><button>X</button></td>
+            </tr>
+        </table>
+    </body>
+</html>

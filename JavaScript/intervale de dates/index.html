@@ -1,20 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Intervalles temporelles</title>
-</head>
-<body>
-    <fieldset>
-    <h1>Gestion des dates et des Intervalles</h1>
-    <label for="myDate">Date actuelle : </label>
-    <input id="myDate" type="date"/>
-    <label for ="heureActuelle">Heure actuelle : </label>
-    <input id = "heureActuelle" type="time"/>
-    <button id = "display">Afficher date du jour</button>
-    </fieldset>
-    <hr>
-    <p>Aujourd'hui nous sommes le <span id="date"></span>, l'heure courante est : <span id ="hour"></span></p>
-</body>
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Intervalles temporelles</title>
+        <link rel="stylesheet" href="./style/style.css">
+
+    </head>
+
+    <body>
+        <fieldset class="fieldset">
+            <h1>Gestion des dates et des Intervalles</h1>
+            <label for="currentDate">Date actuelle : </label>
+            <input id="currentDate" type="date" />
+            <label for="currentTime">Heure actuelle : </label>
+            <input id="currentTime" type="time" />
+            <button id="display">Afficher date du jour</button>
+        </fieldset>
+        <hr>
+        <p>Aujourd'hui nous sommes le <span id="date" class="date"></span>, l'heure courante est : <span id="hour" class="hour"></span></p>
+        <hr>
+        <p>Sélectionnez une date et une heure :</p>
+        <fieldset class="fieldset2">
+            <label for="nextDate">Date :</label>
+            <input id="nextDate" type="datetime-local">
+            <button id="calculInterval">Calculer intervalle</button>
+            <p>Dans <span id = "timeDiff"></span> jours, nous serons le <span id="date2"></span><span id="a"> a </span><span id="hour2"></span>.</p>
+        </fieldset>
+        <script src="./style/main.js"></script>
+    </body>
 </html>
