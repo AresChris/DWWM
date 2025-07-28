@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./style.css"></link>
+    <script src="./js/main.js" defer></script>
+    <title>Inscription</title>
+</head>
+<body>
+    <header>
+        <h1>Créer votre compte</h1>
+    </header>
+    <main>
+        <form>
+            <div>
+                <label>Nom d'utilisateur</label>
+                <input id="username" name="nomUtilisateur" type="text" required placeholder="Nom d'utilisateur">
+            </div>
+            <div>
+                <label>Mot de passe</label>
+                <input id="password1" name="motDePasse1" type="password" required placeholder="Mot de passe">
+            </div>
+            <div>
+                <label>Confirmer le mot de passe</label>
+                <input id="password2" name="motDePasse2" type="password" required placeholder="Mot de passe (confirmer)">
+            </div>
+            <div id="next">
+                <button id="validate">Suivant</button>
+            </div>
+            <div id="result">
+            </div>
+        </form>
+    </main>
+    <footer>
+        <p>Copyright &copy; 2025 <span id="credits">Prénom NOM</span></p>
+    </footer>
+</body>
+</html>
