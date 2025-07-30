@@ -3,6 +3,7 @@ const username = document.getElementById('username');
 const validate = document.getElementById('validate');
 const password1 = document.getElementById('password1');
 const password2 = document.getElementById('password2');
+const result = document.getElementById('result');
 
 document.getElementById('credits').textContent = ('Christopher Ares');
 
