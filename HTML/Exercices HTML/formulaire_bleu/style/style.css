@@ -1,0 +1,9 @@
+body{
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: #f0f8ff;
+}
+.form_group {
+    width: 150px;
+    height: 350px;
+}

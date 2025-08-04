@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Formulaire bleu</title>
+        <link rel="stylesheet" href="./style/style.css">
+    </head>
+
+    <body>
+        <form id = "form_group">
+            <div class="container">
+                <label for="name">Name</label>
+                <input type="text" id="name">
+            </div>
+            <div class="container">
+                <label for="phone">Phone</label>
+                <input type="tel" id="phone">
+            </div>
+            <div class="container">
+                <label for="email">email</label>
+                <input type="text" id="email">
+            </div>
+            <fieldset>
+                <legend>Which service do you requiere?</legend>
+                <input type ="checkbox" id="plumbing">Plumbing</checkbox>
+                <input type ="checkbox" id="electricity">Electricity</checkbox>
+                <label for="painting" >Painting</label>
+                <input type="checkbox" id="painting">
+            </fieldset>
+            <fieldset>
+                <legend>Which other service do you need ?</legend>
+                <input type ="checkbox" id="architecture">Architecture</checkbox>
+                <input type ="checkbox" id="disinfection">Disinfection</checkbox>
+                <input type ="checkbox" id="rat_extermination">Rat extermination</checkbox>
+            </fieldset>
+            <div class="container">
+                <label for="date">Date/Time</label>
+                <input type="datetime-local" id="date">
+            </div>
+            <div class="container">
+                <label for="selection">Place</label>
+                <select id="selection">  
+                    <option value="select_one">Select one</option>
+                    <option value="main_office">Main office (Paris)</option>
+                    <option value="technical_center">Technical center (Lille)</option>
+                    <option value="logistic_center">Logistic center (Amiens)</option>
+                </select>
+            </div>
+            <div class="container">
+                <label for="needs">Other needs</label>
+                <textarea id="message" rows="4"></textarea>
+            </div>
+            <div class="container">
+                <label for="Special_Instructions">Special instructions</label>
+                <textarea id="message" rows="4"></textarea>
+            </div>
+        </form>
+    </body>
+
+</html>
