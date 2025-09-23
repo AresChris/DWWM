@@ -1,0 +1,28 @@
+html{
+    background-color: blanchedalmond;
+}
+body{
+    border: 1px solid black;
+    width: 850px;
+    margin: auto;
+}
+h1{
+    margin-left: 20px;
+}
+label{
+    width: 150px;
+    display: inline-block;
+    margin-top: 15px;
+}
+#login_button{
+    margin-top: 20px;
+    margin-left: 150px;
+}
+#square{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border: 1px dotted black;
+    width: 800px;
+}
