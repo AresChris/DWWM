@@ -175,9 +175,29 @@ JOIN employe ON employe.nomR = articles.nomR
 JOIN ligne_bon_de_livraison
 JOIN fournisseurs;
 
+SELECT * FROM articles;
+SELECT * FROM fournisseurs;
+SELECT * FROM ligne_bon_de_livraison;
+DELIMITER |
+CREATE PROCEDURE afficher_prod_outFournisseur(IN p_codeF CHAR(6), OUT p_nomfournisseur VARCHAR(50))
+BEGIN
+ SELECT
+  A.nomA AS "Nom Article",
+  A.`type` AS "Type Article",
+  A.nomR AS "Rayon",
+  F.nomF AS "Nom Fournisseur" INTO p_nomfournisseur
+ FROM
+  ligne_bon_de_livraison AS L
+ INNER JOIN
+  articles AS A ON A.codeA = L.codeA
+ INNER JOIN
+  fournisseurs AS F ON F.codeF = L.codeF
+ WHERE
+ L.codeF = p_codeF;
+END|
+DELIMITER ;
 
-
-
-
+SET @p_nomfournisseur := '';
+CALL afficher_prod_outFournisseur('FABCFG', @p_nomfournisseur);
 
 

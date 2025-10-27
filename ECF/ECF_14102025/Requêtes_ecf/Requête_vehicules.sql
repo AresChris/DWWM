@@ -1,0 +1,28 @@
+CREATE DATABASE ECF_architecte;
+CREATE DATABASE db_vehicules;
+CREATE TABLE realisation
+(id_area INT UNSIGNED NOT NULL,
+titre_rea VARCHAR(250) NOT NULL,
+date_rea DATE NOT NULL,
+text_rea TEXT NOT NULL)
+ENGINE=INNODB DEFAULT CHARSET=UTF8;
+
+ALTER TABLE realisation ADD CONSTRAINT pk_id_area PRIMARY KEY(id_area);
+ALTER TABLE realisation AUTO_INCREMENT=1;
+
+CREATE TABLE images
+(id_images INT UNSIGNED NOT NULL,
+url_img VARCHAR(250) NOT NULL,
+nom_img VARCHAR(100) NOT NULL,
+text_img VARCHAR(300) NOT NULL,
+ext_img VARCHAR(5) NOT NULL)
+ENGINE=INNODB DEFAULT CHARSET=UTF8;
+
+ALTER TABLE images ADD CONSTRAINT pk_id_images PRIMARY KEY(id_images);
+ALTER TABLE images AUTO_INCREMENT=1;
+
+/* --------------------- */
+SELECT * FROM images;
+SELECT * FROM realisation;
+
+ALTER TABLE realisation ADD id_images INT;
