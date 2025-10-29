@@ -29,7 +29,7 @@ function getTimeLeft(string $date){
 
 echo getTimeLeft("2019-09-29") . "\n";
 echo getTimeLeft("2025-10-27") . "\n";
-echo getTimeLeft("2025-10-27") . "\n";
+echo getTimeLeft("2025-10-28") . "\n";
 echo getTimeLeft("2020-05-16") . "\n";
 echo getTimeLeft("2021-05-30") . "\n";
 echo getTimeLeft("2022-10-17") . "\n";

@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    align-content: center;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    margin: auto;
+    padding: 20px;
+    width: 250px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+}
+label{
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+    width: 250px;
+    margin: auto;
+}
+input{
+    display: block;
+    width: 240px;
+    margin: auto;
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Formulaire</title>
+        <link rel="stylesheet" href="./style.css">
+    </head>
+    <body>
+        <h1>Formulaire de déclaration</h1>
+        <form action="traitement.php" method="post">
+            <label for="capital_emprunte">Capital emprunté :</label>
+            <input type="number" id="capital_emprunte" name="capital_emprunte" required><br>
+
+            <label for="taux_interet">Taux d'interêt en % :</label>
+            <input type="number" id="taux_interet" name="taux_interet" required><br>
+
+            <label for="duree_remboursement">Durée de remboursement en nombre d'années :</label>
+            <input type="number" id="duree_remboursement" name="duree_remboursement" required><br>
+
+            <input type="submit" value="Valider">
+        </form>
+    </body>
+</html>
