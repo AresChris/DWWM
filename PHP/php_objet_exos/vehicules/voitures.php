@@ -1,9 +1,9 @@
 <?php
 
 class Voiture {
-    private $marque;
-    private $modele;
-    private $poids;
+    protected $marque;
+    protected $modele;
+    protected $poids;
     
     public function __construct($marque, $modele, $poids) {
         $this->marque = $marque;
@@ -12,9 +12,11 @@ class Voiture {
     }
 
     public function getDetails() {
-        return "{$this->marque} {$this->modele} {$this->poids}";
+        return "{$this->marque} {$this->modele}, {$this->poids}";
     }
 }
 
 $voiture = new Voiture("Toyota", "Corolla", 1300 . "kg");
 echo $voiture->getDetails(); 
+
+

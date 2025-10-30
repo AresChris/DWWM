@@ -1,29 +1,24 @@
 <?php
 
 function getToday(){
-    $today = date("d/m/Y");
-    return $today;
+    return new DateTime();
 }
 
 echo getToday() . "\n";
 
 function getTimeLeft(string $date){
-    $today = new DateTime();
-    $target = DateTime::createFromFormat("Y-m-d", $date);
-
-    if(!$target){
+    $target = DateTime::createFromFormat('Y-m-d', $date);
+    $errors = DateTime::getLastErrors();
+    if($errors['warning_count'] > 0 || $errors['error_count'] > 0){
         return "Format de date invalide";
     }
 
-    $diff = $today->diff($target);
-    $days = $diff->days;
-
-    if($target < $today){
+    $today = getToday();
+    
+    if($date < $today){
         return "Evenement passé";
     }else if($target == $today){
         return "Aujourd'hui";
-    }else{
-        return "Dans " . $days . " jours";
     }
 }
 
