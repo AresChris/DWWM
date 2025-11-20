@@ -55,19 +55,19 @@ class Pret
         $capitalRestant = $this->k;
         $table = '<table border="1" cellpadding="5" cellspacing="0" style="width:100%;border-collapse:collapse;text-align:center;">';
         $table .= '<thead><tr><th>Mois</th><th>Mensualité</th><th>Intérêts</th><th>Amortissement</th><th>Capital restant</th></tr></thead><tbody>';
-        for ($i = 1; $i <= $n; $i++) {
-            $interet = round($capitalRestant * $tm, 2);
-            $amortissement = round($mensualite - $interet, 2);
-            $capitalRestant = round($capitalRestant - $amortissement, 2);
-            if ($capitalRestant < 0) $capitalRestant = 0;
-            $table .= '<tr>';
-            $table .= '<td>' . $i . '</td>';
-            $table .= '<td>' . number_format($mensualite, 2, ',', ' ') . '</td>';
-            $table .= '<td>' . number_format($interet, 2, ',', ' ') . '</td>';
-            $table .= '<td>' . number_format($amortissement, 2, ',', ' ') . '</td>';
-            $table .= '<td>' . number_format($capitalRestant, 2, ',', ' ') . '</td>';
-            $table .= '</tr>';
-        }
+            for ($i = 1; $i <= $n; $i++) {
+                $interet = round($capitalRestant * $tm, 2);
+                $amortissement = round($mensualite - $interet, 2);
+                $capitalRestant = round($capitalRestant - $amortissement, 2);
+                if ($capitalRestant < 0) $capitalRestant = 0;
+                $table .= '<tr>';
+                $table .= '<td>' . $i . '</td>';
+                $table .= '<td>' . number_format($mensualite, 2, ',', ' ') . '</td>';
+                $table .= '<td>' . number_format($interet, 2, ',', ' ') . '</td>';
+                $table .= '<td>' . number_format($amortissement, 2, ',', ' ') . '</td>';
+                $table .= '<td>' . number_format($capitalRestant, 2, ',', ' ') . '</td>';
+                $table .= '</tr>';
+            }
         $table .= '</tbody></table>';
         return $table;
     }
